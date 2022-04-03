@@ -1,0 +1,138 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Style for TextView in the activity_detail.xml -->
+    <style name="DetailTextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingRight">@dimen/padding</item>
+        <item name="android:paddingLeft">@dimen/padding</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom</item>
+        <item name="android:drawablePadding">@dimen/drawable_padding</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <!-- Style for description TextView in the fragment_info.xml -->
+    <style name="InfoDescriptionTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingRight">@dimen/padding</item>
+        <item name="android:paddingLeft">@dimen/padding</item>
+        <item name="android:paddingTop">@dimen/padding_top</item>
+        <item name="android:paddingBottom">@dimen/padding</item>
+        <item name="android:textColor">@color/color_green_900</item>
+    </style>
+
+    <!-- Style for title TextView in the fragment_info.xml-->
+    <style name="InfoTitleTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/padding</item>
+        <item name="android:layout_marginRight">@dimen/padding</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/color_light_green_500</item>
+    </style>
+
+    <!-- Style for shop TextView in the card_item_shop.xml -->
+    <style name="ShopTextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/color_center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:padding">@dimen/padding_shop_text_view</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Style for shop ImageView in the card_item_shop.xml -->
+    <style name="ShopImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/layout_height_shop_food</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- Style for food imageView in the card_item_food.xml -->
+    <style name="FoodImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/layout_height_shop_food</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="FoodTextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignBottom">@id/attraction_image_card</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:padding">@dimen/padding_text_view</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Style for attraction ImageView in the card_item.xml -->
+    <style name="AttractionImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/layout_height_image</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:contentDescription">@string/image_des</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- Style for attraction Name textView in the card_item.xml -->
+    <style name="AttractionNameCardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:padding">@dimen/padding_text_view</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Style for attraction short description textView in the card_item.xml -->
+    <style name="AttractionShortCardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_below">@+id/frame</item>
+        <item name="android:padding">@dimen/padding_text_view</item>
+        <item name="android:textColor">@color/color_green_900</item>
+    </style>
+
+    <!-- Style for language textView in the list_item.xml -->
+    <style name="LanguageListItemStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/layout_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/layout_margin</item>
+        <item name="android:layout_marginRight">@dimen/layout_margin</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+
+</resources>

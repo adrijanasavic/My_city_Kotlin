@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_margin_card"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        card_view:cardCornerRadius="@dimen/card_corner_radius">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <FrameLayout
+                android:id="@+id/frame"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/attraction_image_card"
+                    style="@style/AttractionImageViewStyle" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_height_image"
+                    android:background="@drawable/scrim_attraction" />
+
+                <TextView
+                    android:id="@+id/attraction_name_card"
+                    style="@style/AttractionNameCardStyle"
+                    android:layout_gravity="bottom"
+                    tools:text="name" />
+
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/attraction_short_card"
+                style="@style/AttractionShortCardStyle"
+                tools:text="short description" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

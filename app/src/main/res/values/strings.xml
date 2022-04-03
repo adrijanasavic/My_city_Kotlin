@@ -1,0 +1,464 @@
+<resources>
+    <string name="app_name">MyCityNoviSad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Categories -->
+    <string name="basic_info">Osnovne informacije</string>
+    <string name="sights">Znamenitosti</string>
+    <string name="nature_and_culture">Priroda &amp; Kultura</string>
+    <string name="shop">Šoping centri</string>
+    <string name="food">Restorani</string>
+    <string name="detail">Detail</string>
+
+    <string name="novi_sad">Novi Sad</string>
+
+    <!-- String for content description -->
+    <string name="attraction_image_des">Attraction Image</string>
+    <string name="image_des">Image</string>
+
+    <!-- Strings for intent -->
+    <string name="image_id">image ID</string>
+    <string name="name">name</string>
+    <string name="short_description">short description</string>
+    <string name="description">description</string>
+    <string name="address">address</string>
+    <string name="transport">transport</string>
+    <string name="phone">phone</string>
+    <string name="web">web</string>
+    <string name="hours">hours</string>
+    <string name="fee">fee</string>
+    <string name="category">category</string>
+
+    <!-- Basic information -->
+    <string name="noviSad">Novi Sad</string>
+    <string name="novisad_opis">Novi Sad je grad kulture i turizma na Dunavu, na obroncima Fruške Gore, iz godine u godinu sve više cveta. Grad koji pruža ruke svima koji žele da uživaju u raznolikosti, umetnosti i uljudnosti. Predstavlja raskršće najvažnijih evropskih puteva, drumskih i železničkih, što značajno doprinosi industrijskom, kulturnom i privrednom razvitku grada.
+        Danas je, posle svih nedaća koje je stojički podneo, savršen spoj istorije i budućnosti, tradicionalnog i savremenog načina života.
+        Mnogi mladi ljudi ga zovu „studentski grad“ jer je poslednjih decenija postao popularan izbor za nastavak školovanja i života posle srednje škole.
+        Sigurno zato što pruža velike mogućnosti kako za izbor fakulteta, tako i za ostvarenje mladih u pogledu poslovnih prilika.
+        Ono čime grad danas može da se pohvali jeste ogroman turistički potencijal, univerzitetsko žarište sa 10 fakulteta, mnogobrojni privatni fakulteti i stručne škole, kulturne manifestacije koje privlače ljude sa svih meridijana, bajkoviti parkovi i kupališta.
+        Krenimo od istorijskog nasleđa i bogatstva koji oslikavaju grad u najboljem svetlu, a to su Dunav i Petrovaradinska tvrđava. Upravo zajedno čine neraskidivu savršenu celinu. Petrovaradinska tvrđava, smeštena na kamenitom brdu iznad Dunava, je jedna od najvećih i najočuvanijih tvrđava u Evropi, građena u baroknom vojnom stilu. Ispod nje se nalaze vojne prostorije i dugački hodnici u čak 4 nivoa (oko 16km dužine), izgrađena kako bi se vojska zaštitila od neprijatelja i mogla da živi u njima. Tvrđava je poznata po tzv. „pijanom satu“ čija mala kazaljka pokazuje minute, a velika sate, kako bi lađari i iz daleka po lošem vremenu mogli da vide koliko je sati. Sat je poklon za grad od carice Marije Terezije. Danas se na Tvrđavi održavaju mnogobrojne manifestacije kao što su „EXIT“ muzički festival, poznat širom sveta.
+        Najviši organi Autonomne pokrajine Vojvodina smešteni su u zgradi Banovine koju popularno zovu „Mermerna lepotica“ i „Lađa na Dunavu“ jer joj fasadu krasi mermerni kamen sa ostrva Brač. To je jedna od najmonumentalnijih građevina savremenog doba, izgrađena 1939.godine.
+        Novosađani se posebno ponose jezgrom grada koji krasi Trg slobode, nastao u 18.veku. U središtu se nalazi spomenik Svetozaru Miletiću, a na zapadnoj strani Gradska kuća sa upečatljivim jonskim i korintskim stubovima, kopija gradske kuće u Gracu. Na suprotnoj strani Gradske kuće nalazi se katolička crkva Ime Marijino, a tu je i Hotel Vojvodina, zgrada prvo namenski izgrađena za hotel još 1854.godine.
+        Razlog zbog kog kažemo da je Novi Sad pravi evropski kulturni centar jeste institucija koja je najstarija ove vrste u Srbiji, a to je Srpsko narodno pozorište, osnovano 1861. godine. Od Trga slobode, na kom se najčešće okupljaju novosađani, ali i turisti, proteže se jedna od najstarijih gradskih ulica – Zmaj Jovina ulica. Meštani su je nazivali „Magazinski sokak“ zbog mnoštva zanatskih i trgovinskih radnji. Na kraju ulice nalazi se bronzani spomenik Jovanu Jovanoviću Zmaju, dečijem pesniku.</string>
+
+    <!-- Basic information about climate -->
+    <string name="klima">Klima</string>
+    <string name="klima_opis">Klima u Novom Sadu prelazi iz umereno-kontinentalne u kontinentalnu, tako da grad ima sva četiri godišnja doba. Preko jeseni i zime zna duvati hladan vetar košava, koji obično traje od tri do sedam dana. Košava može tokom zime da stvori nanose i smetove snega tokom vejavica i mećava.
+        Prosečna temperatura vazduha u gradu je 10,9°C, srednja temperatura u januaru je –1°C, dok je u julu 21,6°C. Godišnje padne prosečno 578 mm padavina, a broj dana sa padavinama je 122. </string>
+
+    <!-- Basic information about currency -->
+    <string name="valuta">Valuta</string>
+    <string name="valuta_opis">U Srbiiji je zvanično platežno sredstvo dinar, oznaka RSD.
+
+</string>
+
+
+    <!-- Sights  -->
+    <!-- Exit -->
+    <string name="exit">Exit</string>
+    <string name="exit_opis">EXIT je višestruko nagrađivani internacionalni letnji muzički festival. Održava se svake godine u Novom Sadu u Srbiji, na Petrovaradinskoj tvrđavi, koju mnogi smatraju za jednu od najboljih festivalskih lokacija na svetu, i na njemu nastupa preko 1000 izvođača na više od 40 bina i festivalskih zona.</string>
+    <string name="exit_opis_detalji">Pored titule „Najbolji evropski festival” osvojene na Evropskim festivalskim nagradama 2013. i 2017. godine, EXIT je 2007. godine proglašen za najbolji evropski festival na Britanskim festivalskim nagradama. EXIT je proglašen i za Najbolji evropski festival za 2016. godinu od strane vodećeg evropskog turističkog priznanja “European Best Destinations“, koje se dodeljuje u saradnji sa sa Evropskom komisijom, dok je Savet za regionalnu saradnju 2017. odabrao EXIT festival za Šampiona regionalne saradnje u Jugoistočnoj Evropi.
+        O Exitu su pisali svi važni mediji sveta, a priznanja su dobijena od medijskih magnata kao što su CNN (“World’s Top 5 Festivals”), The Guardian (“World’s Best Festival”), The Sun (“One of Europe’s most popular music events”), Euronews, New York Times, BBC (“Top 3 Music Festivals”), Forbes (“Thanks to EXIT, Serbia is a festival hot spot worth your attention”), The Times (“Best European Festival”), MTV (“World’s Best Festival”), Huffington Post, Conde Nast Traveller, Daily Mail, The Independent, Lonely Planet i brojnih drugih.</string>
+    <string name="exit_adresa">Petrovaradinska tvrđava</string>
+    <string name="exit_transport">Autobus - 3</string>
+    <string name="exit_telefon">+381&#8211;661&#8211;23&#8211;99</string>
+    <string name="exit_web">www.exitfest.org/</string>
+    <string name="exit_rVreme">Otvoreno 24h tokom trajanja festivala</string>
+    <string name="exit_cena">6.400 RSD</string>
+
+    <!-- Petrovaradinska tvrđava -->
+    <string name="petrovaradin">Petrovaradinska tvrdjava</string>
+    <string name="petrovaradin_opis">Petrovaradinska tvrđava se nalazi u Novom Sadu, Srbiji, u mestu Petrovaradin na obali Dunava i obroncima Fruške gore.</string>
+    <string name="petrovaradin_opis_detalji">Kamen temeljac je položio austrijski princ Kroj. Izgradnja tvrđave, po projektu francuskog vojnog arhitekte Sebastijana Vobana, trajala je punih 88 godina, sve do 1780. Izgradnju su vodili austrijski vojni arhitekti. Tvrđava je izgrađena na 122 hektara, na uzvišenju koje dominira okolinom. Bila je neosvojiva za ondašnju ratnu tehniku i već tada je dobila naziv Gibraltar na Dunavu. Kao isključivo vojni objekat, Petrovaradinska tvrđava služila je sve do 1948. godine. Pod zaštitu države stavljena je 1951. godine, od kada predstavlja kulturni i turistički objekat. Pored muzeja, arhiva i niza umetničkih ateljea, poslednjih godina na Petrovaradinskoj tvrđavi održava se muzički festival "Egzit"</string>
+    <string name="petrovaradin_adresa">Petrovaradinska tvrđava</string>
+    <string name="petrovaradin_transport">Autobus - 3</string>
+    <string name="petrovaradin_telefon">/</string>
+    <string name="petrovaradin_web">www.visitnovisad.rs/petrovaradinska_tvrdjava.html</string>
+    <string name="petrovaradin_rVreme">Otvoreno 24h</string>
+    <string name="petrovaradin_cena">Besplatno</string>
+
+    <!-- Strand -->
+    <string name="strand">Strand</string>
+    <string name="strand_opis">Najlepša plaža na Dunavu, novosadski Štrand zvanično je svoje kapije otvorio 1911.godine, mada su Novosađani na tom mestu davno pre toga koristili čari Dunava.</string>
+    <string name="strand_opis_detalji">Krajem 19. veka bila su popularna Štenglova dunavska kupatila, tzv. «švimšule», ili škole plivanja. Na Dunavu su bili postavljeni splavovi sa buradima vezanim za balvane. Kupaći kostimi koji su tada Štrandom ni malo ne liče na ono što se danas može videti na plaži. Više su sakrivali, nego što su otkrivali. Interesantno je da se uz ulaznicu dobijao kupaći kostim, koji je morao da zadovolji stroga pravila. Već tada, Štrand je imao organizovanu stražarsku i spasilačku službu, a bili su angažovani i učitelji plivanja. Iz tog doba postoje zapisi i o mnogim divljim plažama s obe strane Dunava koje su pohodili oni kojima je Štrand bio daleko, ili nisu imali za ulaznicu. Izgradnjom tri reda drvenih kabina 1913. godine, potom biletarnice, barake za bicikle, tuševa, restorana, saletle, tramboline, skakaonice i navozaza za čamce za iznajmljivanje, Štrand je, uz pažljivo odnegovano zelenilo i guste drvorede, pružao visok komfor i zavidan izgled belosvetske otmenosti.</string>
+    <string name="strand_adresa">Novi Sad</string>
+    <string name="strand_transport">Autobus - 4,8</string>
+    <string name="strand_telefon">+381&#8211;21&#8211;00&#8211;266</string>
+    <string name="strand_web">zelenilo.com/strand/</string>
+    <string name="strand_rVreme">8h - 24h</string>
+    <string name="strand_cena">50 RSD</string>
+
+    <!-- Katakombe -->
+    <string name="katakombe">Katakombe</string>
+    <string name="katakombe_opis">Ispod Petrovaradinske tvrđave prostire se oko 20 kilometara podzemnih tunela, u kojima je i bunar s kojeg je vodu pio Jozef Drugi, sin Marije Terezije. </string>
+    <string name="katakombe_opis_detalji">Hodnici su dugački više od 20 kilometara, a raspoređeni su u četiri nivoa. Svaki nivo je u drugoj boji, pa je prvi nivo označen crvenom, drugi zelenom, treći plavom, a četvrti crnom bojom. Najmisterioznije i najčudnije mesto na dnu četvrtog, crnog nivoa jeste takozvani Kajzer bunar, s kojeg je vodu pio sin Marije Terezije Jozef, austrijski car.
+        Postojanje bunara je logično jer je u slučaju opsade bilo važno da vojna posada ima izvor vode. Prema našim istraživanjima, car Josif je nekoliko puta dolazio do bunara. Naspram bunara postoji i tabla na kojoj je zabeleženo na nemačkom jeziku da je on posećivao ovo mesto. Na tabli je ispisano da je Jozef iz bunara pio vodu u pratnji komandanta minerskog korpusa - kaže Leon Šurbanović.</string>
+    <string name="katakombe_adresa">Petrovaradinske tvrđave, Novi Sad 21131</string>
+    <string name="katakombe_transport">Autobus - 3</string>
+    <string name="katakombe_telefon">/</string>
+    <string name="katakombe_web">www.radiosignal.rs/katakombe-ispod-tvrdave-sve-tajne-podzemlja/</string>
+    <string name="katakombe_rVreme">8h - 15h</string>
+    <string name="katakombe_cena">Besplatno</string>
+
+    <!-- Dunavska ulica -->
+    <string name="dunavska">Dunavska ulica</string>
+    <string name="dunavska_opis">Najstarija ulica u Novom Sadu sa prelepim fasadamas orlomentima koji krase objekte, Ilica koja vodi prema Dunavskom parku i prelepoj reci Dunavu.</string>
+    <string name="dunavska_opis_detalji">Dunavska ulica je verovatno najstarija ulica u Novom Sadu. Sastoji se iz tri dela: iz pravca Zmaj Jovine ulice su jednospratne kuće sa leve i desne strane, u čijim prizemljima su lokali različitih namena; drugi deo je Dunavski park s jedne i Komanda garnizona, Muzej Vojvodine i Istorijski muzej, s druge strane, dok je u trećem delu, u blizini Dunava bašta oficirskog doma sa leve strane ulice i višespratne kuće u neobaroknom stilu.</string>
+    <string name="dunavska_adresa">Dunavska Novi Sad</string>
+    <string name="dunavska_transport">Autobus - 3,4,6,8</string>
+    <string name="dunavska_telefon">/</string>
+    <string name="dunavska_web">www.novisad.rs/lat/dunavska-ulica-i-dunavski-park</string>
+    <string name="dunavska_rVreme">Otvoreno 24h</string>
+    <string name="dunavska_cena">Besplatno</string>
+
+    <!-- Dunavski park -->
+    <string name="dunavski_park">Dunavski park</string>
+    <string name="dunavski_park_opis">Najlepši novosadski park sa preko 250 biljnih vrsta nalazi se u samom centru grada, a prostire se na 33.695 kvadratnih metara. Park se nalazi pod zaštitom Republičkog zavoda za zaštitu prirode.</string>
+    <string name="dunavski_park_opis_detalji">Uređenje zemljišta za Dunavski park započeto je 1895. godine na velikoj livadi gde su se do tada održavali veliki godišnji vašari. Stoga je i ledina na kojoj je počelo uređenje parka zvala vašarište.
+        Najpre je uređen prostor ispred tadašnje Sudske palate – zasejana je trava posađeno drveće i napravljene zemljane staze. Taj prostor je od 1912. godine počela da krasi skulptura „Nimfe“, rad novosadskog vajara Đorđa Jovanovića. U parku se nalazi i spomenik Đure Jakšića, rad Jovana Soldatovića, figura Prepodobnog Sergija Radonješkog (poklon Društva rusko-srpskog prijateljstva), bista Branka Radičevića (rad Ivanke Acin), a 1992. godine postavljena je i bista Miroslava Antića, koju je izradio Pavle Radovanović.</string>
+    <string name="dunavski_park_adresa">Dunavska Novi Sad</string>
+    <string name="dunavski_park_transport">Autobus - 3,4,6,8</string>
+    <string name="dunavski_park_telefon">/</string>
+    <string name="dunavski_park_web">www.novisad.rs/lat/dunavska-ulica-i-dunavski-park</string>
+    <string name="dunavski_park_rVreme">Otvoreno 24h</string>
+    <string name="dunavski_park_cena">Besplatno</string>
+
+    <!-- Ledinacko jezero -->
+    <string name="ledinacko_jezero">Ledinacko jezero</string>
+    <string name="ledinacko_jezero_opis">Na prvo mesto stavljamo ono što je najuočljivije u Novom Sadu i najspektakularnije za svakoga ko dodje do Trga Slobode, a to je rimokatolička crkva Imena Marijinog. Ovakva sa sadašnjim izgledom, podignuta je 1894. godine. Pre nje se na istom mestu nalazila mala skromna crkva iz 18.veka sa grobljem u njenom zaleđu. Sadašnja katedrala dugačka je 52, a široka 25 metara. Toranj je ono što je možda i najupečatljivije na ovoj građevini. Visok je 72 metra sa satom na sve četiri strane. Cela crkva je rađena u neogotskom stilu, dok su prozori ukrašeni peštanskim vitražima. Velelepna je kako spolja tako i iznutra i naš savet je da ukoliko to već niste, zavirite u ovu mirnu kuću, ako ni zbog čeka drugog onda da se divite prošlosti vremena koji su sačuvani za nas.</string>
+    <string name="ledinacko_jezero_opis_detalji">Krajem 1990-ih i početkom 2000-ih godina, prava na ekploataciju jezera bila su predmet rasprave više strana: mesne zajednice, grada Novi Sad, rudarskog preduzeća „Alas“ registrovanog u Rakovcu i javnog preduzeća koje je rukovodilo Nacionalnim parkom Fruška gora. Zbog nejasnih odluka Opštine i Suda, postojala je mogućnost da jezero odmah nestane, pošto je rudarsko preduzeće zahtevalo nazad svoj kamenolom, a jezero se činilo nestabilnim zbog mogućeg izlivanja vode. Uprava Nacionalnog parka Fruška gora je porekla glasine iz 2006. da su prava na korišćenje kamenoloma prodata nekom austrijskom preduzeću, pošto je Skupština Vojvodine već usvojila plan da sačuva jezero. Na kraju su rasprave završene u korist očuvanja jezera.
+        Budućnost jezera je neizvesna. U periodu od 2001. do 2006. godine, uz njega je bilo malo turističko odmaralište, a mesna zajednica Stari Ledinci i preduzeće koje upravlja odmaralištem su imali želju da prošire turističke usluge. Međutim, juna 2006. godine odron sa litica je povredio nekoliko plivača, i javni pristup jezeru je zabranjen. Republička inspekcija za zaštitu životne sredine naredila je da se jezero odmah isprazni (pošto naredba iz 2002. godine nije izvršena), pošto je nivo vode došao do vrha i počeo da se izliva. Takođe, Republički biro za zaštitu životne sredine je izrazio mišljenje da se prvo obustavi eksploatacija, uz radove na zaštiti i očuvanju prirode i da se namena jezera promeni u rekreativnu.
+        Jezero je ispražnjeno tokom leta 2009.</string>
+    <string name="ledinacko_jezero_adresa">Ledinci</string>
+    <string name="ledinacko_jezero_transport">Autobus</string>
+    <string name="ledinacko_jezero_telefon">/</string>
+    <string name="ledinacko_jezero_web">fruskac.net/rs/lokacije/jezera/ledinacko</string>
+    <string name="ledinacko_jezero_rVreme">Otvoreno 24h</string>
+    <string name="ledinacko_jezero_cena">Besplatno</string>
+
+    <!-- Varadinski most -->
+    <string name="varadinski_most">Varadinski most</string>
+    <string name="varadinski_most_opis">Varadinski most je naziv koji se koristi za više mostova na Dunavu koji su se vremenom prostirali između Novog Sada i Petrovaradina.</string>
+    <string name="varadinski_most_opis_detalji">Ovaj most je prvi most koji je obnovljen posle Drugog svetskog rata. Obnovljen je 1945. godine, a do izgradnje Žeželjevog mosta preko njega su išle železničke šine. Bio je jednostavne rešetkaste konstrukcije. 1999. godine je bilo predviđeno njegovo podizanje na propisanu visinu, međutim, 1. aprila 1999. NATO avijacija ga je sa nekoliko projektila srušila. Odmah po završetku NATO agresije pristupilo se izgradnji novog mosta. Krajem 1999. uklonjeni su ostaci starog mosta i početkom 2000. godine radnici niškog MIN-a su danonoćno radili da bi Novom Sadu obezbedili novi stalni most. Otvoren je septembra 2000. godine, neposredno pred izbore. Na otvaranju je dobio ime „Varadinska duga“, ali kasnije je ime promenjeno u Varadinski most.</string>
+    <string name="varadinski_most_adresa">Varadinski most, Novi Sad 21000</string>
+    <string name="varadinski_most_transport">Autobus - 3,6</string>
+    <string name="varadinski_most_telefon">/</string>
+    <string name="varadinski_most_web">sr.wikipedia.org/sr-el/%D0%92%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82</string>
+    <string name="varadinski_most_rVreme">Otvoreno 24h</string>
+    <string name="varadinski_most_cena">Besplatno</string>
+
+    <!-- Zezeljev most -->
+    <string name="zezeljev_most">Zezeljev most</string>
+    <string name="zezeljev_most_opis">Žeželjev most je železničko-drumski lučni most na Dunavu u Novom Sadu. Ukupna dužina mu je 474 metara. Sagrađen 1961. godine, srušen je u NATO bombardovanju Jugoslavije 1999. godine. Ponovo je sagrađen 2018. godine, nakon šest godina od otpočinjanja radova. Povezuje Novi Sad i Petrovaradin i deo je međunarodne pruge Beograd–Budimpešta.</string>
+    <string name="zezeljev_most_opis_detalji">Originalni most dužine 377 metara je građen je od je od 1957. do 1961. godine, kao jedinstven primer gradnje uz korišćenje prednapregnutog betona. U prvoj fazi su izgrađeni lukovi, a zatim je izgrađen avgust koji je "visio" na čeličnim sajlama zakačenim za lukove mosta. Projekat je uradio poznati jugoslovenski građevinski inženjer Branko Žeželj.
+        Lukovi mosta postali su jedna od vizura Novog Sada. Preko njega je išla međunarodna pruga, kao i tranzitni put kroz Novi Sad. Njegovim rušenjem za kratko su presečeni ovi putevi.
+        Most nakon što je srušen 1999. godineU NATO bombardovanju 1999. godine, most je gađan 12 puta. 23. aprila 1999. godine sa više direktnih pogodaka, most je konačno srušen. Tada je presečen železnički saobraćaj između Subotice i Beograda. Tokom bombardovanja, Novi Sad je ostao bez sva tri velika mosta preko Dunava (Most Slobode, Varadinski most i Žeželjev most). Privremeni drumsko-železnički most, izgrađen 2000. godine, zamenjuje nedostatak Žeželjevog mosta.
+        Nakon izrade projektne dokumentacije i potpisivanja ugovora o izgradnji i finansiranju 2011. godine, novi most je počeo da se gradi na mestu nekadašnjeg 2012. godine. Projektom, most je vizuelno sličan nekadašnjem, s tim što su lukovi novogmosta od čelika umesto od prednapregnutog betona. Most se sastoji od dva luka, jednog dužine 219 metara i visine od 42 metra, i drugog, 177 metara dugačkog i 34 metara visokog. U oktobru 2017. godine, pet godina od početka izgradnje, dva luka novog mosta su spojeni, čime je premoščena reka Dunav. Vrednost radova do 2017. godine je iznosila 51,71 milion evra.</string>
+    <string name="zezeljev_most_adresa">Beogradski kej 27, Novi Sad</string>
+    <string name="zezeljev_most_transport">Autobus</string>
+    <string name="zezeljev_most_telefon">/</string>
+    <string name="zezeljev_most_web">sh.wikipedia.org/wiki/%C5%BDe%C5%BEeljev_most</string>
+    <string name="zezeljev_most_rVreme">Otvoreno 24h</string>
+    <string name="zezeljev_most_cena">Besplatno</string>
+
+    <!-- Most slobode -->
+    <string name="most_slobode">Most slobode</string>
+    <string name="most_slobode_opis">Most slobode je most preko Dunava, u Novom Sadu. Most je bio otvoren 23. oktobra 1981. godine, a bombardovan 3. aprila, 1999. (NATO bombardovanje). Most slobode je opet izgrađen i otvoren za saobraćaj oktobra 2005. godine.</string>
+    <string name="most_slobode_opis_detalji">Projektovao ga je akademik Nikola Hajdin, uz pomoć saradnika inženjera Gojka Nenadovića i Predraga Želalića.
+        Most je na dva stuba sa kosim zategama. Stubovi su visine 60 metara na rastojanju od 361 metar. Ukupno ima 48 kablova (zatega). Dužina konstrukcije mosta je 1382 metra.
+        Gradnja mosta je trajala 5 godina, ugrađeno je 30.000 kubnih metara betona uz 2.150 tona betonskog gvožđa, kao i 10.000 tona čelika.
+        Most ima 6 auto traka (po 3 u oba smera) i dve pešačke trake.
+        Rekonstrukcija je koštala 40 miliona evra i trajala je 2 godine i 22 dana. Puštanje mosta je obavljeno iz dva puta. Prvo je Maja Gojković, gradonačelnica Novog Sada, otvorila most 7. oktobra 2005. godine[1], a potom ga je otvorio Evropski komesar za proširenje Oli Ren 11. oktobra uz prisustvo državne delegacije skoro 24 godine posle prvog otvaranja.</string>
+    <string name="most_slobode_adresa">Sremska Kamenica</string>
+    <string name="most_slobode_transport">Autobus - 3</string>
+    <string name="most_slobode_telefon">/</string>
+    <string name="most_slobode_web">www.flickr.com/photos/28572961@N06/3077927933</string>
+    <string name="most_slobode_rVreme">Otvoreno 24h</string>
+    <string name="most_slobode_cena">Besplatno</string>
+
+
+    <!-- Spens -->
+    <string name="spens">Spens</string>
+    <string name="spens_opis">Sportski i poslovni centar "Vojvodina", popularno nazvan SPENS (što je u stvari skraćenica od Stonotenisko Prvenstvo Evrope Novi Sad) jeste sportsko-poslovni centar koji se nalazi u Novom Sadu, u delu Stari Grad. Izgradnja dvorane započela je maja 1979, a otvorena je 14. aprila 1981. za 36. svetsko prvenstvo u stonom tenisu.</string>
+    <string name="spens_opis_detalji">SPENS su projektovali Živorad Janković i Branko Bulić iz Instituta za urbanizam Arhitektonskog fakulteta iz Sarajeva. Sportsko-poslovni centar "Vojvodina" čine dvorana, otvoreni sportski tereni, stadion "Karađorđe" i garaža s parking prostorom. Površina lokacije na kojoj je izgrađena dvorana SPENS jest skoro 200.000 m², od toga sam objekat zauzima 85.091 m², a stadion Karađorđe čini 32.483 m². Korisna površina zatvorenih sportskih prostora jest 46.319 m².</string>
+    <string name="spens_adresa">Stujeska 2, Novi Sad 21000</string>
+    <string name="spens_transport">Autobus - 4,8</string>
+    <string name="spens_telefon">+381&#8211;21&#8211;4882&#8211;230</string>
+    <string name="spens_web">www.tiketklub.com/koncerti/spens-novi-sad/spens-novi-sad/</string>
+    <string name="spens_rVreme">06h - 00h</string>
+    <string name="spens_cena">Besplatno</string>
+
+    <!-- Dino park -->
+    <string name="dino_park">Dino park</string>
+    <string name="dino_park_opis">Dino park pruža autentičnu i jedinstvenu celodnevnu zabavu i edukaciju za sve uzraste, a posebno za porodice sa malom decom. Dobrodošli! :)</string>
+    <string name="dino_park_opis_detalji">Dino park pruža jedinstvenu celodnevnu i višednevnu zabavu i edukaciju za sve uzraste: porodice sa decom, decu iz vrtića, učenike osnovnih i srednjih škola, studente i pasionirane avanturiste... Pratite nas putem web sajta i društvenih mreža kako bi na vreme saznali novosti o Dino parku i iznenađenjima koja vas očekuju u novoj 2019. godini...
+        Inače, sadržaji Dino parka koncipirani su da budu edukativnog, kulturnog i zabavnog karaktera. Rezidenti parka, jesu  24 replike dinosaurusa iz ere Mezozoik, o kojima će posetioci moći više da saznaju, uz pratnju stručnih Dino vodiča. Pored izgleda, veličine i karakteristika dinosaurusa, tim Dino vodiča objasniće vam kako je izgledao život u doba Triasa, Jure i Krede i na posletku, kako su ove intrigantne životinje u potpunosti nestale sa planete.</string>
+    <string name="dino_park_adresa">Stujeska 2, Novi Sad 21000</string>
+    <string name="dino_park_transport">Autobus - 4,8 </string>
+    <string name="dino_park_telefon">+381&#8211;69&#8211;118&#8211;5300 </string>
+    <string name="dino_park_web">www.youtube.com/watch?v=HLcFC_knxDg</string>
+    <string name="dino_park_rVreme">10h - 20h</string>
+    <string name="dino_park_cena">200 RSD</string>
+
+
+    <!-- Priroda & Kultura -->
+    <!--Katedrala -->
+    <string name="katedrala">Katedrala</string>
+    <string name="katedrala_opis">Crkva Imena Marijinog je rimokatolička crkva, koja se nalazi u centru Novog Sada, na Trgu slobode. Praznik crkve, Ime Marijino, slavi se 12. septembra. Ova crkva je takođe i najveća u Novom Sadu. Građani Novog Sada crkvu zovu i ”katedrala”, iako Novi Sad pripada Subotičkoj biskupiji, čija je katedrala u Subotici. </string>
+    <string name="katedrala_detail_opis">Prva katolička crkva u Novom Sadu iz prvih decenija 18. veka bila je skromna, privremena građevina koja je 1742. porušena. Na istom mestu izgrađena je nova. Katolički nadbiskup Gabor Patačić osvetio je novu crkvu 1742. godine. U bombardovanju 12. juna 1849. godine i ona je bila zapaljena i srušen joj je toranj. U kasnijoj obnovi prvobitni toranj nije u celosti rekonstruisan. Novosadski katolici nisu bili zadovoljni izgledom, pa su u Gradskoj skupštini dali inicijativu da se podigne takav koji će priličiti Novom Sadu kao slobodnom kraljevskom gradu. Takođe, u mostobranu na obali Dunava („Brukšanac“), nalazila se crkva svetog Ivana Nepomuka, koja je srušena prilikom gradnje prilaza Mostu kraljevića Tomislava i Bulevara kraljice Marije (današnji Bulevar Mihaila Pupina) (1928). Godine 1891. doneta je odluka da se stara crkva poruši i na istom mestu izgradi nova. Arhitekta Georg Molnar izradio je planove tokom 1892. godine i nije za taj obiman posao tražio nikakvu nadoknadu (crkva mu se odužila tako što je postavila njegovu bistu u niši levo ispod hora u crkvi, što je neobično za jedno svetovno lice). Iste godine stara crkva je porušena, a sledeće, 1893. godine, u novembru mesecu preduzimači Stefan Gusek i Karl Lerer, pod nadzorom projektanta Molnara, završavaju građevinski deo posla. U oktobru 1894. podignut je na toranj osvećeni pozlaćeni krst. Toranj je visok 72 metra. Crkva je dugačka 52, široka 25, visina krova iznosi 22 metra. U crkvi ima 4 oltara. Glavni je u apsidi gde je velika slika Majke Božije, sa ugarskim kraljevima i svetiteljima Ištvanom i Laslom. Levo od apside je oltar Uskrsnuća Isusova sa figurama u drvetu svetih Petra i Pavla. Treći oltar je posvećen sv. Florijanu, zaštitniku vatrogasaca, gde su u drvetu izrađene figure svetih Emerika i Elizabete, a tu je i slika sv. Porodice. Četvrti oltar smešten je ispod hora i posvećen je Hristovom grobu sa figurama četiri anđela. Skulpture na svim oltarima su kolorisane ili su rađene u imitaciji kamena (mramoracija). Fasada je urađena od žute fasadne cigle, a sama crkva, kao i unutrašnja rezbarija je urađena u neogotskom stilu. Prozorski su ukrašeni peštanskim vitražima, dok Žolnai keramika prekriva krovnu konstrukciju.</string>
+    <string name="katedrala_adresa">Katolička porta, Novi Sad 21000</string>
+    <string name="katedrala_transport">Autobus - 72</string>
+    <string name="katedrala_telefon">+381&#8211;21&#8211;661&#8211;6862</string>
+    <string name="katedrala_web" />Opsirnije o katedrali:
+    ilovenovisad.com/vodic/sakralni-objekti/katolicka-crkva-ime-marijino/
+    <string name="katedrala_rVreme">08h - 15h</string>
+    <string name="katedrala_cena">Besplatno</string>
+
+
+    <!-- Fruska gora National Park -->
+    <string name="fruska_gora">Fruska gora - nacionalni park</string>
+    <string name="fruska_gora_opis">Usamljenu ostrvsku planinu izdignutu u sred velike panonske ravnice, naučnici nazivaju “ogledalom geografske prošlosti”. Srbi je mogu nazivati ogledalom kulturne i duhovne prošlosti koje svojim granama pridržavaju stoletne šume najstarijeg srpskog Nacionalnog parka.</string>
+    <string name="fruska_gora_detail_opis">Fruška gora, nekadašnje ostrvo Panonskog mora, pripada ostrvskim, starim gromadnim planinama. Pružajući se u pravcu zapad–istok, dužine oko 80 kilometara i širine 15 kilometara, sa najvišim vrhom od 539 metara – Crvenim čotom, Fruška gora predstavlja dominantnu orografsku celinu Panonske nizije. Fruškogorski planinski venac s istoka i severa ograničavaju aluvijalne ravni Save i Dunava, a sa juga i zapada sremske lesne zaravni. Rimljani su je nazivali Alma Mons, što znači „plodna gora”, a današnji naziv potiče od starog slovenskog etnonima Frug, sinonima za Franke, što imenu daje značenje „planina Franaka”. Zbog burne geološke prošlosti, pravoj riznici fosilne flore i faune u svojim sedimentima, mnogobrojnim retkim predstavnicima biljnog i životinjskog sveta koji obitavaju na ovom području, kao i neprocenjivoj kulturno-istorijskoj baštini, Fruška gora je još 1960. proglašena nacionalnim parkom prirode.</string>
+    <string name="fruska_gora_adresa">Zmajev trg 1, Sremska Kamenica 21208</string>
+    <string name="fruska_gora_transport">Autobus - 72</string>
+    <string name="fruska_gora_telefon">+381&#8211;21&#8211;462&#8211;662</string>
+    <string name="fruska_gora_web">Opsirnije : www.npfruskagora.co.rs</string>
+    <string name="fruska_gora_rVreme">Otvoreno tokom cele godine</string>
+    <string name="fruska_gora_cena">Besplatno</string>
+
+    <!-- Spomenik Svetozar Miletic -->
+    <string name="spomenik_sMiletic">Spomenik Svetozar Miletić</string>
+    <string name="spomenik_sMiletic_opis">Spomenik Svetozara Miletića u Novom Sadu se nalazi na Trgu slobode ispred Gradske kuće, otkriven je 1939. godine.
+        Svetozar Miletić (1826 -1901) bio je najznačajniji vođi Srpskog naroda u Habzburškoj monarhiji, poslaniku, advokatu i gradonačelniku Novog Sada.</string>
+    <string name="spomenik_sMiletic_detalji_opis">Spomenik Svetozaru Miletiću (1826-1901) najznačajnijem vođi Srpskog naroda u Habzburškoj monarhiji, poslaniku, advokatu i gradonačelniku Novog Sada, od bronze, visine 500cm, rad vajara Ivana Meštrovića, postavljen je prvi put 1939. ispred Gradske kuće na Trgu slobode u Novom Sadu. Spomenik je bio uklonjen za vreme Drugog svetskog rata ali je već 1944. godine vraćen na svoje mesto. Na novi postament od sivog mermera 215/138/157 cm vajar Pavle Radovanović uklesao je, 1951. godine, tekst: „Svetozar Miletić 1826 – 1901. rad Ivana Meštrovića 1939“. Spomenik je utvrđen za nepokretno kulturno dobro-spomenik kulture od velikog značaja.</string>
+    <string name="spomenik_sMiletic_adresa">Zmajev trg 1, Сремска Каменица 21208</string>
+    <string name="spomenik_sMiletic_trasport">Autobus - 3,4,7,8</string>
+    <string name="spomenik_sMiletic_telefon">+381&#8211;21&#8211;462&#8211;662</string>
+    <string name="spomenik_sMiletic_web">Opsirnije : www.npfruskagora.co.rs/</string>
+    <string name="spomenik_sMiletic_rVreme">Otvoreno tokom cele godine</string>
+    <string name="spomenik_sMiletic_cena">Besplatno</string>
+
+    <!-- Srpsko narodno pozoriste -->
+    <string name="srpsko_narodno_pozoriste">Srpsko narodno pozorište</string>
+    <string name="srpsko_narodno_pozoriste_opis">Srpsko narodno pozorište je osnovano 16/28. jula 1861. godine u Novom Sadu, u tadašnjoj Carevini Austriji (od 1867. Austrougarska monarhija). U Vojvodini je do tada već postojala duga pozorišna tradicija, od đačkih diletantskih predstava, pa sve do privatnih profesionalnih pozorišnih trupa. Pozorište je osnivano u vreme buđenja nacionalne svesti i borbe za nacionalnu slobodu. U to doba u Novom Sadu većina žitelja je srpske narodnosti, veliki broj je visokoobrazovan, tri četvrtine imanja i trgovina bili su u rukama Srba, tako da nije slučajno što je u Novom Sadu osnovano Srpsko narodno pozorište.</string>
+    <string name="srpsko_narodno_pozoriste_detalji_opis">Posle rata Srpsko narodno pozoršte dobija status državne ustanove. Prva predstava 17. marta 1945. bila je Najezda Leonida Leonova. Dramski ansambl činili su glumci predratnog Narodnog pozorišta Dunavske banovine koji su okupaciju proveli u Novom Sadu, glumci Druge sekcije istog pozorišta, nekoliko glumaca koji su došli iz Beograda i nekoliko talentovanih amatera. Od decembra 1944. do decembra 1951. radi pod imenom Vojvođansko narodno pozorište. Prvobitno su predstave igrane u zgradi Mađarske rimokatoličke čitaonice u porti katoličke crkve, a u leto 1945. otvorena je Letnja pozornica u samoj porti. Zgrada Doma kulture (bivši Sokolski dom, danas Pozorište mladih) Pozorištu je ustupljena 1947. godine. Tu zgradu SNP koristi sve do useljenja u svoju zgradu 28. marta 1981. godine. Pored scene u Domu kulture, SNP je 2. oktobra 1959. otvorilo svoju Malu salu u Ulici Jovana Subotića 5, koja od januara 1961. nosi ime Veseli teatar „Ben Akiba“ (danas Novosadsko pozorište).</string>
+    <string name="srpsko_narodno_pozoriste_adresa">Pozorišni trg 1, Novi Sad</string>
+    <string name="srpsko_narodno_pozoriste_trasport">Autobus - 3,4,7,8</string>
+    <string name="srpsko_narodno_pozoriste_telefon">+381&#8211;21&#8211;662&#8211;141</string>
+    <string name="srpsko_narodno_pozoriste_web">Opsirnije : www.snp.org.rs/</string>
+    <string name="srpsko_narodno_pozoriste_rVreme">10h - 22h</string>
+    <string name="srpsko_narodno_pozoriste_cena">1000 - 2100 RSD</string>
+
+
+    <!-- Spomenik zrtava racije -->
+    <string name="zrtvama_racije">Spomenik zrtvama racije</string>
+    <string name="zrtvama_racije_opis">Spomenik žrtvama racije u Novom Sadu je podignut 1971. godine i predstavlja znamenito mesto kao nepokretno kulturno dobro od velikog značaja.</string>
+    <string name="zrtvama_racije_detalji_opis">U Novom Sadu, na keju koji danas nosi ime Kej žrtava racije, fašistički okupator je u takozvanoj „januarskoj raciji“ od 21. do 23. januara 1942. izvršio masovno streljanje više od hiljadu nedužnih građana Novog Sada. Na tom mestu podignuta je bronzana kompozicija „Porodica“, visoka 4 m, posvećena žrtvama palim u Drugom svetskom ratu. Spomenik je rad vajara Jovana Soldatovića i otkriven je 1971. godine. Početkom 1992. spomenik je upotpunjen sa još 78 bronzanih ploča koje je izradio isti vajar. Na četiri ploče (tri sa tekstom na srpskom i jedna na hebrejskom jeziku) ispisane su osnovne informacije o događaju, a na 66 ploča imena ubijenih ličnosti. Između ploča sa tekstovima ritmički su raspoređene ploče ukrašene simbolima Davidove zvezde (4 ploče), krsta (2) i ocila (1). Ispod spomenika se nalaze ploče sa tekstvima na srpskom, mađarskom, slovačkom i hebrejskom jeziku. Rekonstrukcija nasilno uklonjenih ploča je izvršena 2004. godine.</string>
+    <string name="zrtvama_racije_adresa">Suncani kej, Novi Sad 21000</string>
+    <string name="zrtvama_racije_trasport">Autobus - 3,4,6,8</string>
+    <string name="zrtvama_racije_telefon">/</string>
+    <string name="zrtvama_racije_web">Opsirnije : ilovenovisad.com/vodic/spomenici/spomenik-zrtvama-racije/</string>
+    <string name="zrtvama_racije_rVreme">Otvoreno tokom cele godine</string>
+    <string name="zrtvama_racije_cena">Besplatno</string>
+
+    <!-- Matica srpska -->
+    <string name="matica_srpska">Matica srpska</string>
+    <string name="matica_srpska_opis">Zgrada Matice srpske u Novom Sadu sagrađena je 1912. godine, prema projektu arhitekte Momčila Tapavice. Zgrada je na listi nepokretnih kulturnih dobara Srbije, u kategoriji kulturna dobra od velikog značaja. Nalazi se u ulici Matice srpske br.1.</string>
+    <string name="matica_srpska_detalji_opis">Zgrada je jednospratni objekat sa krilima duž dve ulice. Ugao je zasečen sa erkerom na spratu i kupolom složene arhitektonike. Izgrađena je u pseudoklasicističkom stilu kojeg karakterišu mirne i uravnotežene forme, uz svedenu ornamentiku. Klasična jednostavnost, monumentalnost, harmonija volumena i detalja, odlikuju ovo glamurozno zdanje. Na fasadi je izražena antička arhitektonska plastika sa timpanonima, natprozornim lukovima i dekoracijom venaca, uzeta iz stroge rimske arhitekture, ali inspirisana i čistim i otmenim grčkim formama. Fasada je u nivoima prizemlja i krova obojena žuto - bež fasadnom bojom. U nivou prvog sprata završni fasadni sloj je od fasadne opeke tamno bež boje. Krovni pokrivač čine ploče od lima golubije plave boje, dok su detalji na krovu oblikovani od lima tamno plave boje. Uređenju enterijera takođe je posvećeno dosta pažnje. U njemu se nalaze portreti osnivača Matice srpske i drugih značajnih ličnosti, radovi znamenitih autora srpskog slikarstva. U ovoj zgradi nalazi se i Biblioteka Matice srpske. Ispred zgrade postavljeno je šest bista znamenitih ličnosti.</string>
+    <string name="matica_srpska_adresa">Matice srpske 1, Novi Sad 21101</string>
+    <string name="matica_srpska_trasport">Autobus - 3,4,6,8</string>
+    <string name="matica_srpska_telefon">+381&#8211;21&#8211;527&#8211;855</string>
+    <string name="matica_srpska_web">Opsirnije : www.maticasrpska.org.rs/stariSajt/fotografije/index.html</string>
+    <string name="matica_srpska_rVreme">7:30 - 14:30h</string>
+    <string name="matica_srpska_cena">Besplatno</string>
+
+
+    <!-- Shopping -->
+    <!-- Promenda -->
+    <string name="promenada">Promenada</string>
+    <string name="promenada_opis">Šoping centar Promenada se nalazi na jednoj od najatraktivnijih lokacija u Novom Sadu, na uglu Bulevara oslobođenja i Bulevara cara Lazara. Promenada, čija je ukupna izgrađena površina 150.000 kvadratnih metara, investicija je kompanije NEPI Rockcastle, vodeće investicione kompanije koja se bavi komercijalnim nekretninama u Centralnoj i Istočnoj Evropi.
+        Jedinstveni dizajn Promenadu izdvaja po mnogo čemu u odnosu na ostale šoping centre. Projektovana je tako da dopušta ulazak velike količine prirodnog svetla što posetiocima pruža poseban užitak. Takođe, u okviru dvorišnog prostora Promenade postoje i tri košarkaška terena. Ono što Promenadu čini još privlačnijom i interesantnijom posetiocima jesu i dve prostrane terase, od kojih jedna od njih ima pogled ka prepoznatljivoj znamenitosti srpske Atine - Petrovaradinskoj tvrđavi.
+        Novih 49.000 kvadratnih metara prostora dizajniranih za uživanje i kupovinu, sadrži više od 160 brendova i 1.500 parking mesta, uključujući i specijalna parking mesta za porodice sa malom decom. Takođe, šoping centar pruža i druge pogodnosti za roditelje sa malom decom (baby room, grejač za mleko, kolica, igraonica i sl.), koji bez opterećenja i brige mogu zakoračiti u kupovinu.
+        Neki od poznatih brendova koji se mogu naći u Promenadi su brendovi Inditex grupacije koje čine Zara, Massimo Dutti, Zara Home, Oysho, Pull and Bear i Bershka, zatim brendovi LPP grupacije - Mohito, Sinsay i Reserved. U Promenadi se takođe nalazi i LC Waikiki, kao i Fahion Company i Sportina sa svojim brendovima. Pored toga, mnogobrojni sportski brendovi među kojima su Intersport, Sport Vision i N Sport, kao i prodavnice namenjene najmlađima poput Jungle Baby-ja, Dexy Co Kids-a i Pertini Toys-a takođe su na raspolaganju. To nije sve, jer između ostalog u Promenadi možemo da kupujemo i u Lisci, Orsay -u, Legend-u, Tiffany-ju, Moni, kao i mnogim drugim radnjama.</string>
+    <string name="promenada_adresa">Bulevar oslobođenja 119, Novi Sad 21000</string>
+    <string name="promenada_transport">Autobus - 4,7</string>
+    <string name="promenada_rVreme">10:00 ~ 22:00</string>
+
+    <!-- Merkator -->
+    <string name="merkator">Merkator</string>
+    <string name="merkator_opis">Mercator centar omogućuje svojim posetiocima doživljaj lepote i lakoće savremenog života I idealno je mesto za sve one koji žele da gradsku vrevu zamene uživanjem. U ambijentu Mercator centra mnogobrojni posetioci pronalaze zabavu tokom radnih dana, vikenda i praznika – sedam dana u nedelji, od 7:30h do 22h. U svom sastavu objedinjuje hipermarket i veliki broj radnji svetskih poznatih brendova koje pružaju posetiocima uvek aktuelne modne kolekcije, kao i odličan izbor kućnih aparata i ostalih proizvoda.</string>
+    <string name="merkator_adresa">Bulevar oslobođenja 102, Novi Sad 21000 </string>
+    <string name="merkator_transport">Autobus - 4, 7</string>
+    <string name="merkator_rVreme">7:30 ~ 22:00</string>
+
+    <!-- Big -->
+    <string name="big">Big</string>
+    <string name="big_opis">Ako se zadesite u Novom Sadu, neizbežno je da posetite BIG tržni centar, najveći tržni centar na teritoriji Vojvodine. BIG je glavna destinacija za porodice i sve one koji žele da obave najbolju kupovinu i, uz to, se sjajno zabave.
+        BIG tržni centar se nalazi na svega 3.5 km od centra Novog Sada, a posetioci na raspolaganju imaju 1500 parking mesta i preko 100 prodavnica, restorana i kafića poput H and M, LC Waikiki, Mango, Fashion and Friends, C and A, McDonalds, KFC i mnogi drugi.
+        Uživanje je najveće tamo gde je kupovina velika. Tamo gde je najveći izbor, tu je i velika zabava, naravno. Zato svi putevi u Vojvodini vode u BIG koji uvek nastoji da sve svoje posetioce iznenadi različitim zabavnim sadržajima za celu porodicu, pa su tako do sada organizovani brojni koncerti popularnih izvođača, raznoliki dečji sadržaji, nagradne igre i pregršt drugih aktivnosti.
+        U okviru TC BIG nalazi se i najveći bioskop u Vojvodini – CineStar. Bioskop raspolaže sa deset sala opremljenih najmodernijom opremom, a posetiocima je na raspolaganju i prva 4DX sala u Srbiji.</string>
+    <string name="big_adresa">Sentandrejski put 11, Novi Sad 21000</string>
+    <string name="big_transport">Autobus - </string>
+    <string name="big_rVreme">10:00 ~ 22:00</string>
+
+    <!-- Bazar -->
+    <string name="bazar">Bazar</string>
+    <string name="bazar_opis">TC SAD NOVI BAZAAR se nalazi u centru Novog Sada, na početku pešačke zone i već godinama predstavlja neizbežno mesto za kupovinu. Raznovrsne prodavnice, kafe klub sa izvanrednim pogledom, dečija igraonica, supermarket, frizer, manikir i fitness centar, smešteni su na četiri nivoa, na oko 9.000 m2 komercijalnog prostora.
+        Tu možete provesti svoje slobodno vreme u društvu porodice i prijatelja, u kupovini ili druženju i opuštanju svakoga dana od 9 do 21h i nedeljom od 10 do 18h. Dok ste u kupovini, profesionalni animatori će voditi računa o vašoj deci u dečijoj igraonici, a nakon fantastičnog šopinga, možete se osvežiti u kafeu Greenet ili kafe klubu Giardino.</string>
+    <string name="bazar_adresa">Bulevar Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="bazar_transport">Autobus - </string>
+    <string name="bazar_rVreme">09:00 ~ 21:00</string>
+
+    <!-- Nork -->
+    <string name="nork">Nork</string>
+    <string name="nork_opis">U decembru 2016. godine grupaciji Mat Real Estate pridružio se i Shopping centar New Nork. Kao vlasnik novosadskog tržnog centra sa najdužom tradicijom – TC Sad Novi Bazaar,Mat Real Estate je odlučio da obogati ovaj deo delatnosti sa još jednim objektom iste namene,a takodje sa dugačkom tradicijom u Novom Sadu.
+        Ovaj prepoznatljiv objekat smešten je u samom centru grada,odmah pored centralne zgrade Pošte,kraseći ugao Bulevara Mihajla Pupina i Jevrejske ulice. SC New Nork je izgradjen 70ih godina i dugo je funkcionisao kao Robna kuća Nork,sve dok 2007. godine nije renoviran i ponovo otvoren kao Shopping centar New Nork,a nešto kasnije je i poklonjena Gradu Novom Sadu fontana koja se nalazi na platou ispred objekta.
+        U objektu sada posluju: La Sorella shopping center, Rainbow igraonica za decu,New Hong Kong kineski restoran, DM prodavnica, Idea market, Big Blue turistička agencija, Mana Moda.</string>
+    <string name="nork_adresa">Bulevar Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="nork_transport">Autobus - 1, 3, 4, 6, 8</string>
+    <string name="nork_rVreme">07:30 ~ 22:00</string>
+
+    <!-- Elephant city -->
+    <string name="elephant">Elephant city</string>
+    <string name="elephant_opis">Robna kuća širokog asortimana kvalitetne robe po najpovoljnijim cenama! Sve za Vas i Vaš dom! :-)</string>
+    <string name="elephant_adresa">Bulevar oslobođenja 68b, Novi Sad</string>
+    <string name="elephant_transport">Autobus - </string>
+    <string name="elephant_rVreme">08:30 ~ 21:30</string>
+
+    <!-- Pariski magazin -->
+    <string name="pariski_magazin">Pariski magazin</string>
+    <string name="pariski_magazin_opis">TC Pariski Magazin - Savremeni šoping mol u centru Novog Sada. </string>
+    <string name="pariski_magazin_adresa">Pozorišni trg1, Novi Sad 21000</string>
+    <string name="pariski_magazin_transport">Autobus - </string>
+    <string name="pariski_magazin_rVreme">09:00 ~ 19:30</string>
+
+    <!-- Food -->
+    <!-- Gondola -->
+    <string name="gondola">Gondola</string>
+    <string name="gondola_opis">Restoran GONDOLA svojim ekskluzivnim enterijerom i bogatom ponudom internacionalne kuhinje nudi gostima prijatno mesto za poslovni sastanak ili opuštanje u samom centru Novog Sada.</string>
+    <string name="gondola_adresa">Bul. Mihajla Pupina 18, Novi Sad 21000</string>
+    <string name="gondola_transport">Autobus</string>
+    <string name="gondola_phone">+381&#8211;21&#8211;56&#8211;563</string>
+    <string name="gondola_web">www.gondola-restoran.rs</string>
+    <string name="gondola_rVreeme">Radno vreme 08:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="gondola_cena">Pileca gondola: \n864 RSD ~
+        \nTacos sa gamborima: \n673 RSD ~\nRose vino: \n265 RSD ~</string>
+
+    <!-- The Camelot -->
+    <string name="the_camelon">The Camelot</string>
+    <string name="the_camelon_opis">Ugostiteljstvom smo počeli da se bavimo u decembru 1999. godine otvaranjem jednog od najpoznatijih novosadskih klubova "Ritmo Latino", koji je uspešno poslovao do 2011. godine. U avgustu 2009. godine, otvorena je cafe-poslastičarnica "Macchiato KD" u TC Mercator u Novom Sadu. Kao rezultat težnje za profesionalnim napretkom, u aprilu 2011. godine, unapređujemo poslovanje otvaranjem prvog Gastro Pub-a "The Camelot" u Novom Sadu, koji se visoko pozicionirao na ugostiteljskoj mapi grada svojim autentičnim ambijentom, hranom, domaćim pivom iz sopstvene proizvodnje, uslugom. Uloženo profesionalno znanje i trud rezultira razvojem poslovanja u decembru 2013. godine, kada otvaramo drugi Gastro Pub "The Camelot Kopaonik". Kompanija u zimskom periodu zapošljava preko 60 ljudi. Naše je opredeljenje stalno stručno usavršavanje i razvoj poslovanja.</string>
+    <string name="the_camelon_adresa">Sremska 9, Novi Sad 21000</string>
+    <string name="the_camelon_transport">Autobus</string>
+    <string name="the_camelon_phone">+381&#8211;21&#8211;528&#8211;095</string>
+    <string name="the_camelon_web">www.thecamelot.rs</string>
+    <string name="the_camelon_rVreeme">Radno vreme 08:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="the_camelon_cena">THE CAMELOT BURGER SPECIAL 600GR 2 KOM: \n720RSD ~
+        \nTHE CAMELOT KLUB SENDVIČ 600G: \n490 RSD ~\nKOVAČEVIĆ ORFELIN ROZE 0,15l: \n180 RSD ~</string>
+
+    <!-- Plava frajla -->
+    <string name="plava_frajla">Plava frajla</string>
+    <string name="plava_frajla_opis">Ukoliko želite pravi nedeljni ručak, kao iz bakine kuhinje, nudimo Vam vojvođanski rinflajš. Mešavina rustičnih detalja i neobičnih dekora daje posebnu autentičnost našem enterijeru. Vojvođanske poslastice izrađene po originalnim receptima predstavljaju izazov za sva vaša čula.</string>
+    <string name="plava_frajla_adresa">prizemlje SPENS-a, pored stadiona., Sutjeska 2, Novi Sad 21000</string>
+    <string name="plava_frajla_transport">Autobus</string>
+    <string name="plava_frajla_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="plava_frajla_web">plavafrajla.rs</string>
+    <string name="plava_frajla_rVreeme">Radno vreme 08:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="plava_frajla_cena">Sarmice od zelja: \n650RSD ~
+    \nDomaca sarma: \n650 RSD ~\nRoze 0,2l: \n300 RSD ~</string>
+
+
+    <!-- Sokace -->
+    <string name="sokace">Sokace</string>
+    <string name="sokace_opis">Klasična srpska jela pripremana po recepturama porodice Nikolić iz Zaječara. Ugostiteljska tradicija porodice traje bez malo 100 godina.
+        To su jela sa roštilja, ćevapi, pljeskavice razne, uštipci,kobasice, razni pileći zalogaji sa roštilja, dimljeni vrat, bela vešalica,crevca, brizle, jagnjetina...</string>
+    <string name="sokace_adresa">Павла Папа 11, Нови Сад 21101</string>
+    <string name="sokace_transport">Autobus</string>
+    <string name="sokace_phone">+381&#8211;21&#8211;6622&#8211;007</string>
+    <string name="sokace_web">restorani.rs/restoran/restoran-sokace-novi-sad</string>
+    <string name="sokace_rVreeme">Radno vreme 08:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="sokace_cena">Gibanice sa razvlačenim domaćim korama – 500g(sir ili krompir): \n480RSD ~
+    \nSrpska sarma porcija(dinstano mešano mleveno meso, pirinač u listu kiselog kupusa): \n480 RSD ~\nRoze 0,2l: \n300 RSD ~</string>
+
+    <!-- Giardino -->
+    <string name="giardino">Giardino</string>
+    <string name="giardino_opis">Čekaju vas ljubazno i profesionalno osoblje, a zavisno kad nas posetite očekujte oaza mira prepuna ukusne hrane i pića ili pravu klupsku atmosferu!</string>
+    <string name="giardino_adresa">Bulevar Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="giardino_transport">Autobus</string>
+    <string name="giardino_phone">+381&#8211;66&#8211;000&#8211;100</string>
+    <string name="giardino_web">www.giardinoclub.com</string>
+    <string name="giardino_rVreeme">Radno vreme \nRadni dan: 08:30 ~ 24:00
+        \nSubota: 08:30 ~ 03:00\nNedelja: 09:30 ~ 24:00</string>
+    <string name="giardino_cena">File u sosu od gorgonzole i kruške(mladi krompir, grilovano sezonsko povrće, neutralna pavlaka)\n 810 RSD ~
+        \nSvinjski file u mantilu od slanine: 910 RSD \nLatte Macchiato by MONIN(čokolada / vanila / karamela / lešnik / badem)\N 230 RSD ~</string>
+
+    <!-- Fontana -->
+    <string name="fontana">Fontana</string>
+    <string name="fontana_opis">Fontana je mesto gde neprekidno teče deo društvenog života grada. Uživajte u opuštenoj atmosferi, zvucima klavira i violine u vašem društvu i ukusnoj hrani iz naše kuhinje. Ekskluzivni restoran Fontana nalazi se u najatraktivnijem delu starog jezgra Novog Sada u dobro znanoj Pašićevoj ulici. Prijatnog spoljašnjeg izgleda, sa predivnom baštom, fontanom i nesvakidašnje lepim enterijerom, naš restoran gostima pruža izuzetan doživljaj. Pre svega smo poznati po dobroj kuhinji, zasnovanoj kako na tradicionalnom srpskom kulinarstvu, tako i na svetskim gastronomskim kvalitetima. Pored toga, nudimo vam i da poručite hranu na vašu adresu.</string>
+    <string name="fontana_adresa">/</string>
+    <string name="fontana_transport">Autobus</string>
+    <string name="fontana_phone">+381&#8211;21&#8211;6621&#8211;779</string>
+    <string name="fontana_web">www.restoranfontana.com</string>
+    <string name="fontana_rVreeme">Radno vreme \nPonedeljak - Cetvrtak: 07:00 ~ 23:00
+        \nPetak - Nedelja: 07:00 ~ 00:00</string>
+    <string name="fontana_cena">Pileca ragu corba: \n280RSD ~
+    \nSpecijalitet šefa kuhinje: \n1000 RSD ~\nRoze 0,2l: \n300 RSD ~</string>
+
+    <!-- Petrus -->
+    <string name="petrus">Petrus</string>
+    <string name="petrus_opis">Lepa i prostrana bašta i uredan i moderan enterijer, sa velikim, staklenim prozorima učinili su da se osećamo veoma prijatno, naročito kad smo kroz njih gledale kako pada kiša, zaista romantičan prizor, kao što je i sam duh Novog Sada. Nadale smo se da će i hrana ostaviti takav utisak na nas.</string>
+    <string name="petrus_adresa">Modene, Novi Sad 21000</string>
+    <string name="petrus_transport">Autobus</string>
+    <string name="petrus_phone">+381&#8211;66&#8211;3234&#8211;24</string>
+    <string name="petrus_web">www.petruscaffe.com</string>
+    <string name="petrus_rVreeme">Radno vreme 08:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="petrus_cena">VEGETARIJANSKI TANJIR(marinirano povrće sa grila servirano sa kolutićima luka i spicy wedges krompirom u kombinaciji sa urnebesom i domaćim ajvarom): \n790RSD ~
+    \nFISH and CHIPS(fileti ribe u panko prezli, pomfit, tartar sos, mix svežih salata) \n910 RSD ~\nRoze 0,2l: \n300 RSD ~</string>
+
+    <!-- Drevna-->
+    <string name="drevna">Drevna</string>
+    <string name="drevna_opis">Naša „Drevna“ jeste salaš,ali se u mnogome razlikuje od drugih… Na manje od 5 km udaljenosti od centra Novog Sada, blizu Dunava, nalazi se naša „Drevna“. Sasvim dovoljno daleko od gradske vreve, a opet vrlo blizu, da biste se lako i brzo našli kod nas i uživali svim čulima u čarima prirodnog ambijenta. Raspolažemo restoranom tradicionalne kuhinje, bogatim menijem, kao i velikim izborom kako stranih, tako i domaćih pića, visokog kvaliteta.</string>
+    <string name="drevna_adresa">Podunavska6, Novi Sad 21000</string>
+    <string name="drevna_transport">Autobus</string>
+    <string name="drevna_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="drevna_web">www.restoranivojvodine.com/salas-drevna-novi-sad</string>
+    <string name="drevna_rVreeme">Radno vreme 09:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="drevna_cena">/</string>
+
+    <!-- Ribarac -->
+    <string name="ribarac">Ribarac</string>
+    <string name="ribarac_opis">Restoran Ribarac je mesto gde ćete osetiti šarm, spontanost i lepotu uživanja. Elegantno namešten i impresivan u svakom pogledu, kapaciteta od 200 do 500 mesta, i baštom kapaciteta do 150 mesta može biti prilagođen da savršeno odgovori svim Vašim potrebama kao što su: svadbene svečanosti, prijemi, porodične proslave, kokteli i sl. Restoran Ribarac je moguće prilagoditi potrebama i manjih svadbi i svečanosti prema željama gostiju. Parking prostor od 300 mesta omogućava svakom gostu da bezbrižno provede vreme u restoranu. Ljubazno osoblje će učiniti sve da trenuci provedeni u restoranu Ribarac budu zaista prijatni i nezaboravni. Vrhunska hrana i usluga su dovoljni razlozi zbog kojih ćete se uvek rado vraćati u naš restoran.</string>
+    <string name="ribarac_adresa">Ribarsko ostrvo, Novi Sad 21000</string>
+    <string name="ribarac_transport">Autobus</string>
+    <string name="ribarac_phone">+381&#8211;21&#8211;466&#8211;978</string>
+    <string name="ribarac_web">ribarskoostrvo.rs/rs/naslovna/restorani/ribarac.html</string>
+    <string name="ribarac_rVreeme">Radno vreme 09:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="ribarac_cena">Jagnjeće i praseće pečenje sa ražnja
+        \nRolovana punjena piletina sa krompiromn\nRose</string>
+
+    <!-- Alaska terasa -->
+    <string name="alaska_terasa">Alaska terasa</string>
+    <string name="alaska_terasa_opis">Upravo renoviran po najvišim svetskim standardima, restoran Alaska Terasa se nalazi na samoj obali Dunava i poseduje širok asortiman najkvalitetnijih jela i pića. Poseduje otvorenu i zatvorenu baštu iz koje se pruža prelepi pogled na Dunav i Frušku goru. Kapacitet restorana je 186 mesta, sa dodatnih stotinjak mesta u baštenskom delu, što ga čini idealnim za manje proslave. Zatvorena bašta u letnjem periodu se potpuno otvara, a opremljena je centralnim grejanjem, tako da gostima pruža mogućnost uživanja u čarima Dunava i u zimskom periodu. Na meniju restorana Alaska Terasa su internacionalna, domaća, vegetarijanska i jela prilagođena dijetalnim i drugim zahtevima gostiju, a ponudu restorana upotpunjuje i bogat izbor najkvalitetnijih domaćih i stranih vina.</string>
+    <string name="alaska_terasa_adresa">Ribarsko ostrvo, Novi Sad 21000</string>
+    <string name="alaska_terasa_transport">Autobus</string>
+    <string name="alaska_terasa_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="alaska_terasa_web">ribarskoostrvo.rs/rs/naslovna/restorani/alaska-terasa.html</string>
+    <string name="alaska_terasa_rVreeme">Radno vreme 09:00 ~ 24:00
+        \n(※ tokom cele nedelje)</string>
+    <string name="alaska_terasa_cena">Jagnjeće i praseće pečenje sa ražnja
+        \nRolovana punjena piletina sa krompiromn\nRose</string>
+
+
+    <string name="splashtime_key">splashtime_settings</string>
+    <string name="splash_key">splash_settings</string>
+
+</resources>
+

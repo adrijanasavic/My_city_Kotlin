@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/layout_width_zero"
+                android:layout_height="@dimen/layout_height_seoul_image"
+                android:layout_weight="1"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/novi_sad1" />
+
+            <ImageView
+                android:layout_width="@dimen/layout_width_zero"
+                android:layout_height="@dimen/layout_height_seoul_image"
+                android:layout_weight="1"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/novi_sad2" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_height_seoul_scenery"
+            android:contentDescription="@string/image_des"
+            android:scaleType="fitXY"
+            android:src="@drawable/novi_sad" />
+
+        <TextView
+            android:id="@+id/ns_des"
+            style="@style/InfoDescriptionTextStyle"
+            android:text="@string/novisad_opis" />
+
+        <TextView
+            style="@style/InfoTitleTextStyle"
+            android:text="@string/klima" />
+
+        <TextView
+            style="@style/InfoDescriptionTextStyle"
+            android:text="@string/klima_opis" />
+
+        <TextView
+            style="@style/InfoTitleTextStyle"
+            android:text="@string/valuta" />
+
+        <TextView
+            style="@style/InfoDescriptionTextStyle"
+            android:text="@string/valuta_opis" />
+
+
+
+    </LinearLayout>
+</ScrollView>
