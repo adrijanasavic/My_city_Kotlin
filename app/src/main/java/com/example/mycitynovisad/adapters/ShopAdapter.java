@@ -65,34 +65,31 @@ public class ShopAdapter extends RecyclerView.Adapter<ShopAdapter.ViewHolder> {
         Drawable drawable = ContextCompat.getDrawable( mContext, attraction.getAttractionImageId() );
         holder.imageView.setBackground( drawable );
         holder.nameTextView.setText( attraction.getAttractionName() );
-        holder.cardView.setOnClickListener( new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent detailIntent = new Intent( mContext, DetailActivity.class );
+        holder.cardView.setOnClickListener(view -> {
+            Intent detailIntent = new Intent( mContext, DetailActivity.class );
 
-                detailIntent.putExtra( mContext.getString( R.string.category ), mCategory );
+            detailIntent.putExtra( mContext.getString( R.string.category ), mCategory );
 
-                detailIntent.putExtra( mContext.getString( R.string.image_id ),
-                        attraction.getAttractionImageId() );
-                detailIntent.putExtra( mContext.getString( R.string.name ),
-                        attraction.getAttractionName() );
-                detailIntent.putExtra( mContext.getString( R.string.description ),
-                        attraction.getAttractionDescription() );
-                detailIntent.putExtra( mContext.getString( R.string.address ),
-                        attraction.getAttractionAddress() );
-                detailIntent.putExtra( mContext.getString( R.string.transport ),
-                        attraction.getAttractionTransportation() );
-                detailIntent.putExtra( mContext.getString( R.string.phone ),
-                        attraction.getAttractionPhone() );
-                detailIntent.putExtra( mContext.getString( R.string.web ),
-                        attraction.getAttractionWeb() );
-                detailIntent.putExtra( mContext.getString( R.string.hours ),
-                        attraction.getAttractionHours() );
-                detailIntent.putExtra( mContext.getString( R.string.fee ),
-                        attraction.getAttractionFee() );
+            detailIntent.putExtra( mContext.getString( R.string.image_id ),
+                    attraction.getAttractionImageId() );
+            detailIntent.putExtra( mContext.getString( R.string.name ),
+                    attraction.getAttractionName() );
+            detailIntent.putExtra( mContext.getString( R.string.description ),
+                    attraction.getAttractionDescription() );
+            detailIntent.putExtra( mContext.getString( R.string.address ),
+                    attraction.getAttractionAddress() );
+            detailIntent.putExtra( mContext.getString( R.string.transport ),
+                    attraction.getAttractionTransportation() );
+            detailIntent.putExtra( mContext.getString( R.string.phone ),
+                    attraction.getAttractionPhone() );
+            detailIntent.putExtra( mContext.getString( R.string.web ),
+                    attraction.getAttractionWeb() );
+            detailIntent.putExtra( mContext.getString( R.string.hours ),
+                    attraction.getAttractionHours() );
+            detailIntent.putExtra( mContext.getString( R.string.fee ),
+                    attraction.getAttractionFee() );
 
-                mContext.startActivity( detailIntent );
-            }
-        } );
+            mContext.startActivity( detailIntent );
+        });
     }
 }

@@ -16,8 +16,6 @@ import com.example.mycitynovisad.objects.Food;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
-
 
 public class FoodFragment extends Fragment {
 
@@ -29,7 +27,7 @@ public class FoodFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate( R.layout.fragment_item, container, false );
 
-        Objects.requireNonNull(getActivity()).setTitle( getString( R.string.food ) );
+        requireActivity().setTitle( getString( R.string.food ) );
 
         RecyclerView recyclerView = rootView.findViewById( R.id.recyclerview );
         int numberOfColumns = 2;

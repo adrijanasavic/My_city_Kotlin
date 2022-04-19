@@ -58,13 +58,10 @@ public class DetailActivity extends AppCompatActivity {
 
         final TextView addressTextView = findViewById(R.id.detail_address);
 
-        addressTextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent geoIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q="
-                        + addressTextView.getText().toString()));
-                startActivity(geoIntent);
-            }
+        addressTextView.setOnClickListener(view -> {
+            Intent geoIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q="
+                    + addressTextView.getText().toString()));
+            startActivity(geoIntent);
         });
 
         setDetails(R.id.detail_address, address, R.drawable.ic_location);

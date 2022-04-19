@@ -3,15 +3,15 @@ package com.example.mycitynovisad.objects;
 
 public class Food {
 
-    private int mFoodImageId;
-    private String mFoodName;
-    private String mFoodDescription;
-    private String mFoodAddress;
-    private String mFoodTransportation;
+    private final int mFoodImageId;
+    private final String mFoodName;
+    private final String mFoodDescription;
+    private final String mFoodAddress;
+    private final String mFoodTransportation;
     private String mFoodPhone;
     private String mFoodWeb;
-    private String mFoodHours;
-    private String mFoodFee;
+    private final String mFoodHours;
+    private final String mFoodFee;
 
 
     public Food(int foodImageId, String foodName, String foodDescription,

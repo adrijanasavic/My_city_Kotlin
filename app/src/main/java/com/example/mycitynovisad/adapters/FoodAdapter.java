@@ -65,35 +65,32 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder> {
         Drawable drawable = ContextCompat.getDrawable( mContext, attraction.getFoodImageId() );
         holder.imageView.setBackground( drawable );
         holder.nameTextView.setText( attraction.getFoodName() );
-        holder.cardView.setOnClickListener( new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
+        holder.cardView.setOnClickListener(view -> {
 
-                Intent detailIntent = new Intent( mContext, DetailActivity.class );
+            Intent detailIntent = new Intent( mContext, DetailActivity.class );
 
-                detailIntent.putExtra( mContext.getString( R.string.category ), mCategory );
+            detailIntent.putExtra( mContext.getString( R.string.category ), mCategory );
 
-                detailIntent.putExtra( mContext.getString( R.string.image_id ),
-                        attraction.getFoodImageId() );
-                detailIntent.putExtra( mContext.getString( R.string.name ),
-                        attraction.getFoodName() );
-                detailIntent.putExtra( mContext.getString( R.string.description ),
-                        attraction.getFoodDescription() );
-                detailIntent.putExtra( mContext.getString( R.string.address ),
-                        attraction.getFoodAddress() );
-                detailIntent.putExtra( mContext.getString( R.string.transport ),
-                        attraction.getFoodTransportation() );
-                detailIntent.putExtra( mContext.getString( R.string.phone ),
-                        attraction.getFoodPhone() );
-                detailIntent.putExtra( mContext.getString( R.string.web ),
-                        attraction.getFoodWeb() );
-                detailIntent.putExtra( mContext.getString( R.string.hours ),
-                        attraction.getFoodHours() );
-                detailIntent.putExtra( mContext.getString( R.string.fee ),
-                        attraction.getFoodFee() );
+            detailIntent.putExtra( mContext.getString( R.string.image_id ),
+                    attraction.getFoodImageId() );
+            detailIntent.putExtra( mContext.getString( R.string.name ),
+                    attraction.getFoodName() );
+            detailIntent.putExtra( mContext.getString( R.string.description ),
+                    attraction.getFoodDescription() );
+            detailIntent.putExtra( mContext.getString( R.string.address ),
+                    attraction.getFoodAddress() );
+            detailIntent.putExtra( mContext.getString( R.string.transport ),
+                    attraction.getFoodTransportation() );
+            detailIntent.putExtra( mContext.getString( R.string.phone ),
+                    attraction.getFoodPhone() );
+            detailIntent.putExtra( mContext.getString( R.string.web ),
+                    attraction.getFoodWeb() );
+            detailIntent.putExtra( mContext.getString( R.string.hours ),
+                    attraction.getFoodHours() );
+            detailIntent.putExtra( mContext.getString( R.string.fee ),
+                    attraction.getFoodFee() );
 
-                mContext.startActivity( detailIntent );
-            }
-        } );
+            mContext.startActivity( detailIntent );
+        });
     }
 }

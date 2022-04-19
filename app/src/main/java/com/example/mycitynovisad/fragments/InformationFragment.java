@@ -13,15 +13,13 @@ import androidx.fragment.app.Fragment;
 
 import com.example.mycitynovisad.R;
 
-import java.util.Objects;
-
 public class InformationFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate( R.layout.fragment_info, container, false );
 
-        Objects.requireNonNull(getActivity()).setTitle( getString( R.string.app_name ) );
+        requireActivity().setTitle( getString( R.string.app_name ) );
 
         TextView textView = rootView.findViewById( R.id.ns_des );
         Spannable span = new SpannableString( textView.getText() );
@@ -29,4 +27,5 @@ public class InformationFragment extends Fragment {
         textView.setText( span );
         return rootView;
     }
+
 }

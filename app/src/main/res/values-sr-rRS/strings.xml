@@ -76,7 +76,7 @@
     <string name="strand_opis">Najlepša plaža na Dunavu, novosadski Štrand zvanično je svoje kapije otvorio 1911.godine, mada su Novosađani na tom mestu davno pre toga koristili čari Dunava.</string>
     <string name="strand_opis_detalji">Krajem 19. veka bila su popularna Štenglova dunavska kupatila, tzv. «švimšule», ili škole plivanja. Na Dunavu su bili postavljeni splavovi sa buradima vezanim za balvane. Kupaći kostimi koji su tada Štrandom ni malo ne liče na ono što se danas može videti na plaži. Više su sakrivali, nego što su otkrivali. Interesantno je da se uz ulaznicu dobijao kupaći kostim, koji je morao da zadovolji stroga pravila. Već tada, Štrand je imao organizovanu stražarsku i spasilačku službu, a bili su angažovani i učitelji plivanja. Iz tog doba postoje zapisi i o mnogim divljim plažama s obe strane Dunava koje su pohodili oni kojima je Štrand bio daleko, ili nisu imali za ulaznicu. Izgradnjom tri reda drvenih kabina 1913. godine, potom biletarnice, barake za bicikle, tuševa, restorana, saletle, tramboline, skakaonice i navozaza za čamce za iznajmljivanje, Štrand je, uz pažljivo odnegovano zelenilo i guste drvorede, pružao visok komfor i zavidan izgled belosvetske otmenosti.</string>
     <string name="strand_adresa">Novi Sad</string>
-    <string name="strand_transport">Autobus - 4,8</string>
+    <string name="strand_transport">Autobus - 4, 8</string>
     <string name="strand_telefon">+381&#8211;21&#8211;00&#8211;266</string>
     <string name="strand_web">zelenilo.com/strand/</string>
     <string name="strand_rVreme">8h - 24h</string>
@@ -91,7 +91,7 @@
     <string name="katakombe_transport">Autobus - 3</string>
     <string name="katakombe_telefon">/</string>
     <string name="katakombe_web">www.radiosignal.rs/katakombe-ispod-tvrdave-sve-tajne-podzemlja/</string>
-    <string name="katakombe_rVreme">8h - 15h</string>
+    <string name="katakombe_rVreme">Otvoreno: 8h - 15h</string>
     <string name="katakombe_cena">Besplatno</string>
 
     <!-- Dunavska ulica -->
@@ -111,7 +111,7 @@
     <string name="dunavski_park_opis_detalji">Uređenje zemljišta za Dunavski park započeto je 1895. godine na velikoj livadi gde su se do tada održavali veliki godišnji vašari. Stoga je i ledina na kojoj je počelo uređenje parka zvala vašarište.
         Najpre je uređen prostor ispred tadašnje Sudske palate – zasejana je trava posađeno drveće i napravljene zemljane staze. Taj prostor je od 1912. godine počela da krasi skulptura „Nimfe“, rad novosadskog vajara Đorđa Jovanovića. U parku se nalazi i spomenik Đure Jakšića, rad Jovana Soldatovića, figura Prepodobnog Sergija Radonješkog (poklon Društva rusko-srpskog prijateljstva), bista Branka Radičevića (rad Ivanke Acin), a 1992. godine postavljena je i bista Miroslava Antića, koju je izradio Pavle Radovanović.</string>
     <string name="dunavski_park_adresa">Dunavska Novi Sad</string>
-    <string name="dunavski_park_transport">Autobus - 3,4,6,8</string>
+    <string name="dunavski_park_transport">Autobus - 3 ,4 , 6, 8</string>
     <string name="dunavski_park_telefon">/</string>
     <string name="dunavski_park_web">www.novisad.rs/lat/dunavska-ulica-i-dunavski-park</string>
     <string name="dunavski_park_rVreme">Otvoreno 24h</string>
@@ -135,7 +135,7 @@
     <string name="varadinski_most_opis">Varadinski most je naziv koji se koristi za više mostova na Dunavu koji su se vremenom prostirali između Novog Sada i Petrovaradina.</string>
     <string name="varadinski_most_opis_detalji">Ovaj most je prvi most koji je obnovljen posle Drugog svetskog rata. Obnovljen je 1945. godine, a do izgradnje Žeželjevog mosta preko njega su išle železničke šine. Bio je jednostavne rešetkaste konstrukcije. 1999. godine je bilo predviđeno njegovo podizanje na propisanu visinu, međutim, 1. aprila 1999. NATO avijacija ga je sa nekoliko projektila srušila. Odmah po završetku NATO agresije pristupilo se izgradnji novog mosta. Krajem 1999. uklonjeni su ostaci starog mosta i početkom 2000. godine radnici niškog MIN-a su danonoćno radili da bi Novom Sadu obezbedili novi stalni most. Otvoren je septembra 2000. godine, neposredno pred izbore. Na otvaranju je dobio ime „Varadinska duga“, ali kasnije je ime promenjeno u Varadinski most.</string>
     <string name="varadinski_most_adresa">Varadinski most, Novi Sad 21000</string>
-    <string name="varadinski_most_transport">Autobus - 3,6</string>
+    <string name="varadinski_most_transport">Autobus - 3, 6</string>
     <string name="varadinski_most_telefon">/</string>
     <string name="varadinski_most_web">sr.wikipedia.org/sr-el/%D0%92%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82</string>
     <string name="varadinski_most_rVreme">Otvoreno 24h</string>
@@ -179,7 +179,7 @@
     <string name="spens_transport">Autobus - 4,8</string>
     <string name="spens_telefon">+381&#8211;21&#8211;4882&#8211;230</string>
     <string name="spens_web">www.tiketklub.com/koncerti/spens-novi-sad/spens-novi-sad/</string>
-    <string name="spens_rVreme">06h - 00h</string>
+    <string name="spens_rVreme">Otvoreno: 06h - 00h</string>
     <string name="spens_cena">Besplatno</string>
 
     <!-- Priroda & Kultura -->
@@ -192,7 +192,7 @@
     <string name="katedrala_telefon">+381&#8211;21&#8211;661&#8211;6862</string>
     <string name="katedrala_web" />Opsirnije o katedrali:
     ilovenovisad.com/vodic/sakralni-objekti/katolicka-crkva-ime-marijino/
-    <string name="katedrala_rVreme">08h - 15h</string>
+    <string name="katedrala_rVreme">Otvoreno: 08h - 15h</string>
     <string name="katedrala_cena">Besplatno</string>
 
 
@@ -213,7 +213,7 @@
         Svetozar Miletić (1826 -1901) bio je najznačajniji vođi Srpskog naroda u Habzburškoj monarhiji, poslaniku, advokatu i gradonačelniku Novog Sada.</string>
     <string name="spomenik_sMiletic_detalji_opis">Spomenik Svetozaru Miletiću (1826-1901) najznačajnijem vođi Srpskog naroda u Habzburškoj monarhiji, poslaniku, advokatu i gradonačelniku Novog Sada, od bronze, visine 500cm, rad vajara Ivana Meštrovića, postavljen je prvi put 1939. ispred Gradske kuće na Trgu slobode u Novom Sadu. Spomenik je bio uklonjen za vreme Drugog svetskog rata ali je već 1944. godine vraćen na svoje mesto. Na novi postament od sivog mermera 215/138/157 cm vajar Pavle Radovanović uklesao je, 1951. godine, tekst: „Svetozar Miletić 1826 – 1901. rad Ivana Meštrovića 1939“. Spomenik je utvrđen za nepokretno kulturno dobro-spomenik kulture od velikog značaja.</string>
     <string name="spomenik_sMiletic_adresa">Zmajev trg 1, Сремска Каменица 21208</string>
-    <string name="spomenik_sMiletic_trasport">Autobus - 3,4,7,8</string>
+    <string name="spomenik_sMiletic_trasport">Autobus - 3, 4, 7, 8</string>
     <string name="spomenik_sMiletic_telefon">+381&#8211;21&#8211;462&#8211;662</string>
     <string name="spomenik_sMiletic_web">Opsirnije : www.npfruskagora.co.rs/</string>
     <string name="spomenik_sMiletic_rVreme">Otvoreno tokom cele godine</string>
@@ -224,11 +224,11 @@
     <string name="srpsko_narodno_pozoriste_opis">Srpsko narodno pozorište je osnovano 16/28. jula 1861. godine u Novom Sadu, u tadašnjoj Carevini Austriji (od 1867. Austrougarska monarhija). U Vojvodini je do tada već postojala duga pozorišna tradicija, od đačkih diletantskih predstava, pa sve do privatnih profesionalnih pozorišnih trupa. Pozorište je osnivano u vreme buđenja nacionalne svesti i borbe za nacionalnu slobodu. U to doba u Novom Sadu većina žitelja je srpske narodnosti, veliki broj je visokoobrazovan, tri četvrtine imanja i trgovina bili su u rukama Srba, tako da nije slučajno što je u Novom Sadu osnovano Srpsko narodno pozorište.</string>
     <string name="srpsko_narodno_pozoriste_detalji_opis">Posle rata Srpsko narodno pozoršte dobija status državne ustanove. Prva predstava 17. marta 1945. bila je Najezda Leonida Leonova. Dramski ansambl činili su glumci predratnog Narodnog pozorišta Dunavske banovine koji su okupaciju proveli u Novom Sadu, glumci Druge sekcije istog pozorišta, nekoliko glumaca koji su došli iz Beograda i nekoliko talentovanih amatera. Od decembra 1944. do decembra 1951. radi pod imenom Vojvođansko narodno pozorište. Prvobitno su predstave igrane u zgradi Mađarske rimokatoličke čitaonice u porti katoličke crkve, a u leto 1945. otvorena je Letnja pozornica u samoj porti. Zgrada Doma kulture (bivši Sokolski dom, danas Pozorište mladih) Pozorištu je ustupljena 1947. godine. Tu zgradu SNP koristi sve do useljenja u svoju zgradu 28. marta 1981. godine. Pored scene u Domu kulture, SNP je 2. oktobra 1959. otvorilo svoju Malu salu u Ulici Jovana Subotića 5, koja od januara 1961. nosi ime Veseli teatar „Ben Akiba“ (danas Novosadsko pozorište).</string>
     <string name="srpsko_narodno_pozoriste_adresa">Pozorišni trg 1, Novi Sad</string>
-    <string name="srpsko_narodno_pozoriste_trasport">Autobus - 3,4,7,8</string>
+    <string name="srpsko_narodno_pozoriste_trasport">Autobus - 3, 4, 7, 8</string>
     <string name="srpsko_narodno_pozoriste_telefon">+381&#8211;21&#8211;662&#8211;141</string>
     <string name="srpsko_narodno_pozoriste_web">Opsirnije : www.snp.org.rs/</string>
-    <string name="srpsko_narodno_pozoriste_rVreme">10h - 22h</string>
-    <string name="srpsko_narodno_pozoriste_cena">1000 - 2100 RSD</string>
+    <string name="srpsko_narodno_pozoriste_rVreme">Otvoreno: 10h - 22h</string>
+    <string name="srpsko_narodno_pozoriste_cena">1000 ~ 2100 RSD</string>
 
 
     <!-- Spomenik zrtava racije -->
@@ -236,7 +236,7 @@
     <string name="zrtvama_racije_opis">Spomenik žrtvama racije u Novom Sadu je podignut 1971. godine i predstavlja znamenito mesto kao nepokretno kulturno dobro od velikog značaja.</string>
     <string name="zrtvama_racije_detalji_opis">U Novom Sadu, na keju koji danas nosi ime Kej žrtava racije, fašistički okupator je u takozvanoj „januarskoj raciji“ od 21. do 23. januara 1942. izvršio masovno streljanje više od hiljadu nedužnih građana Novog Sada. Na tom mestu podignuta je bronzana kompozicija „Porodica“, visoka 4 m, posvećena žrtvama palim u Drugom svetskom ratu. Spomenik je rad vajara Jovana Soldatovića i otkriven je 1971. godine. Početkom 1992. spomenik je upotpunjen sa još 78 bronzanih ploča koje je izradio isti vajar. Na četiri ploče (tri sa tekstom na srpskom i jedna na hebrejskom jeziku) ispisane su osnovne informacije o događaju, a na 66 ploča imena ubijenih ličnosti. Između ploča sa tekstovima ritmički su raspoređene ploče ukrašene simbolima Davidove zvezde (4 ploče), krsta (2) i ocila (1). Ispod spomenika se nalaze ploče sa tekstvima na srpskom, mađarskom, slovačkom i hebrejskom jeziku. Rekonstrukcija nasilno uklonjenih ploča je izvršena 2004. godine.</string>
     <string name="zrtvama_racije_adresa">Suncani kej, Novi Sad 21000</string>
-    <string name="zrtvama_racije_trasport">Autobus - 3,4,6,8</string>
+    <string name="zrtvama_racije_trasport">Autobus - 3, 4, 6, 8</string>
     <string name="zrtvama_racije_telefon">/</string>
     <string name="zrtvama_racije_web">Opsirnije : ilovenovisad.com/vodic/spomenici/spomenik-zrtvama-racije/</string>
     <string name="zrtvama_racije_rVreme">Otvoreno tokom cele godine</string>
@@ -247,10 +247,10 @@
     <string name="matica_srpska_opis">Zgrada Matice srpske u Novom Sadu sagrađena je 1912. godine, prema projektu arhitekte Momčila Tapavice. Zgrada je na listi nepokretnih kulturnih dobara Srbije, u kategoriji kulturna dobra od velikog značaja. Nalazi se u ulici Matice srpske br.1.</string>
     <string name="matica_srpska_detalji_opis">Zgrada je jednospratni objekat sa krilima duž dve ulice. Ugao je zasečen sa erkerom na spratu i kupolom složene arhitektonike. Izgrađena je u pseudoklasicističkom stilu kojeg karakterišu mirne i uravnotežene forme, uz svedenu ornamentiku. Klasična jednostavnost, monumentalnost, harmonija volumena i detalja, odlikuju ovo glamurozno zdanje. Na fasadi je izražena antička arhitektonska plastika sa timpanonima, natprozornim lukovima i dekoracijom venaca, uzeta iz stroge rimske arhitekture, ali inspirisana i čistim i otmenim grčkim formama. Fasada je u nivoima prizemlja i krova obojena žuto - bež fasadnom bojom. U nivou prvog sprata završni fasadni sloj je od fasadne opeke tamno bež boje. Krovni pokrivač čine ploče od lima golubije plave boje, dok su detalji na krovu oblikovani od lima tamno plave boje. Uređenju enterijera takođe je posvećeno dosta pažnje. U njemu se nalaze portreti osnivača Matice srpske i drugih značajnih ličnosti, radovi znamenitih autora srpskog slikarstva. U ovoj zgradi nalazi se i Biblioteka Matice srpske. Ispred zgrade postavljeno je šest bista znamenitih ličnosti.</string>
     <string name="matica_srpska_adresa">Matice srpske 1, Novi Sad 21101</string>
-    <string name="matica_srpska_trasport">Autobus - 3,4,6,8</string>
+    <string name="matica_srpska_trasport">Autobus - 3, 4, 6, 8</string>
     <string name="matica_srpska_telefon">+381&#8211;21&#8211;527&#8211;855</string>
     <string name="matica_srpska_web">Opsirnije : www.maticasrpska.org.rs/stariSajt/fotografije/index.html</string>
-    <string name="matica_srpska_rVreme">7:30 - 14:30h</string>
+    <string name="matica_srpska_rVreme">Otvoreno: 7:30 - 14:30h</string>
     <string name="matica_srpska_cena">Besplatno</string>
 
 
@@ -262,15 +262,15 @@
         Novih 49.000 kvadratnih metara prostora dizajniranih za uživanje i kupovinu, sadrži više od 160 brendova i 1.500 parking mesta, uključujući i specijalna parking mesta za porodice sa malom decom. Takođe, šoping centar pruža i druge pogodnosti za roditelje sa malom decom (baby room, grejač za mleko, kolica, igraonica i sl.), koji bez opterećenja i brige mogu zakoračiti u kupovinu.
         Neki od poznatih brendova koji se mogu naći u Promenadi su brendovi Inditex grupacije koje čine Zara, Massimo Dutti, Zara Home, Oysho, Pull and Bear i Bershka, zatim brendovi LPP grupacije - Mohito, Sinsay i Reserved. U Promenadi se takođe nalazi i LC Waikiki, kao i Fahion Company i Sportina sa svojim brendovima. Pored toga, mnogobrojni sportski brendovi među kojima su Intersport, Sport Vision i N Sport, kao i prodavnice namenjene najmlađima poput Jungle Baby-ja, Dexy Co Kids-a i Pertini Toys-a takođe su na raspolaganju. To nije sve, jer između ostalog u Promenadi možemo da kupujemo i u Lisci, Orsay -u, Legend-u, Tiffany-ju, Moni, kao i mnogim drugim radnjama.</string>
     <string name="promenada_adresa">Bulevar oslobođenja 119, Novi Sad 21000</string>
-    <string name="promenada_transport">Autobus - 4,7</string>
-    <string name="promenada_rVreme">10:00 ~ 22:00</string>
+    <string name="promenada_transport">Autobus - 4, 7</string>
+    <string name="promenada_rVreme">Otvoreno: 10:00 ~ 22:00</string>
 
     <!-- Merkator -->
     <string name="merkator">Merkator</string>
     <string name="merkator_opis">Mercator centar omogućuje svojim posetiocima doživljaj lepote i lakoće savremenog života I idealno je mesto za sve one koji žele da gradsku vrevu zamene uživanjem. U ambijentu Mercator centra mnogobrojni posetioci pronalaze zabavu tokom radnih dana, vikenda i praznika – sedam dana u nedelji, od 7:30h do 22h. U svom sastavu objedinjuje hipermarket i veliki broj radnji svetskih poznatih brendova koje pružaju posetiocima uvek aktuelne modne kolekcije, kao i odličan izbor kućnih aparata i ostalih proizvoda.</string>
     <string name="merkator_adresa">Bulevar oslobođenja 102, Novi Sad 21000 </string>
     <string name="merkator_transport">Autobus - 4, 7</string>
-    <string name="merkator_rVreme">7:30 ~ 22:00</string>
+    <string name="merkator_rVreme">Otvoreno: 7:30 ~ 22:00</string>
 
     <!-- Big -->
     <string name="big">Big</string>
@@ -280,14 +280,14 @@
         U okviru TC BIG nalazi se i najveći bioskop u Vojvodini – CineStar. Bioskop raspolaže sa deset sala opremljenih najmodernijom opremom, a posetiocima je na raspolaganju i prva 4DX sala u Srbiji.</string>
     <string name="big_adresa">Sentandrejski put 11, Novi Sad 21000</string>
     <string name="big_transport">Autobus - </string>
-    <string name="big_rVreme">10:00 ~ 22:00</string>
+    <string name="big_rVreme">Otvoreno: 10:00 ~ 22:00</string>
 
     <!-- Bazar -->
     <string name="bazar">Bazar</string>
     <string name="bazar_opis">TC BAZAAR se nalazi u centru Novog Sada, na početku pešačke zone i već godinama predstavlja neizbežno mesto za kupovinu. Raznovrsne prodavnice, kafe klub sa izvanrednim pogledom, dečija igraonica, supermarket, frizer, manikir i fitness centar, smešteni su na četiri nivoa, na oko 9.000 m2 komercijalnog prostora.         Tu možete provesti svoje slobodno vreme u društvu porodice i prijatelja, u kupovini ili druženju i opuštanju svakoga dana od 9 do 21h i nedeljom od 10 do 18h. Dok ste u kupovini, profesionalni animatori će voditi računa o vašoj deci u dečijoj igraonici, a nakon fantastičnog šopinga, možete se osvežiti u kafeu Greenet ili kafe klubu Giardino.</string>
     <string name="bazar_adresa">Bulevar Mihajla Pupina 1, Novi Sad 21000</string>
     <string name="bazar_transport">Autobus -  3, 4, 6, 8</string>
-    <string name="bazar_rVreme">09:00 ~ 21:00</string>
+    <string name="bazar_rVreme">Otvoreno: 09:00 ~ 21:00</string>
 
     <!-- Nork -->
     <string name="nork">Nork</string>
@@ -296,7 +296,7 @@
         U objektu sada posluju: La Sorella shopping center, Rainbow igraonica za decu,New Hong Kong kineski restoran, DM prodavnica, Idea market, Big Blue turistička agencija, Mana Moda.</string>
     <string name="nork_adresa">Bulevar Mihajla Pupina 1, Novi Sad 21000</string>
     <string name="nork_transport">Autobus - 1, 3, 4, 6, 8</string>
-    <string name="nork_rVreme">07:30 ~ 22:00</string>
+    <string name="nork_rVreme">Otvoreno: 07:30 ~ 22:00</string>
 
     <!-- Elephant city -->
     <string name="elephant">Elephant city</string>
@@ -310,7 +310,7 @@
     <string name="pariski_magazin_opis">TC Pariski Magazin - Savremeni šoping mol u centru Novog Sada. </string>
     <string name="pariski_magazin_adresa">Pozorišni trg1, Novi Sad 21000</string>
     <string name="pariski_magazin_transport">Autobus -  3, 4, 6, 8</string>
-    <string name="pariski_magazin_rVreme">09:00 ~ 19:30</string>
+    <string name="pariski_magazin_rVreme">Otvoreno: 09:00 ~ 19:30</string>
 
     <!-- Food -->
     <!-- Gondola -->

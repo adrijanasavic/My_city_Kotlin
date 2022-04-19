@@ -1,0 +1,401 @@
+<resources>
+    <string name="app_name">NoviSad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Categories -->
+    <string name="sights">"Sights "</string>
+    <string name="nature_and_culture">Nature &amp; Culture</string>
+    <string name="shop">"Shopping malls "</string>
+    <string name="food">"Restaurants "</string>
+    <string name="detail">Detail</string>
+
+    <string name="novi_sad">Novi Sad</string>
+
+    <!-- String for content description -->
+    <string name="attraction_image_des">Attraction Image</string>
+    <string name="image_des">Image</string>
+
+    <!-- Strings for intent -->
+    <string name="image_id">image ID</string>
+    <string name="name">name</string>
+    <string name="short_description">short description</string>
+    <string name="description">description</string>
+    <string name="address">address</string>
+    <string name="transport">transport</string>
+    <string name="phone">phone</string>
+    <string name="web">web</string>
+    <string name="hours">hours</string>
+    <string name="fee">fee</string>
+    <string name="category">category</string>
+
+    <!-- Basic information -->
+    <string name="noviSad">Novi Sad</string>
+
+    <!-- Basic information about climate -->
+    <string name="klima">"Climate"</string>
+    <string name="klima_opis">The climate in Novi Sad is shifting from temperate-continental to continental, so the city has all four seasons. During the autumn and winter, a cold wind can blow, which usually lasts from three to seven days. During the winter, Košava can create deposits and debris of snow during blizzards and blizzards.\nThe average air temperature in the city is 10.9 ° C, the average temperature in January is -1 ° C, while in July it is 21.6 ° C. The average annual rainfall is 578 mm, and the number of days with precipitation is 122.\n</string>
+
+    <!-- Basic information about currency -->
+    <string name="valuta_opis">In Serbia, the official means of payment is the dinar, marked RSD.\n</string>
+
+
+    <!-- Sights  -->
+    <!-- Exit -->
+    <string name="exit">Exit</string>
+    <string name="exit_opis">EXIT is a multi-award winning international summer music festival. It is held every year in Novi Sad, Serbia, at the Petrovaradin Fortress, which many consider one of the best festival locations in the world, and it features over 1,000 performers on more than 40 stages and festival zones.</string>
+    <string name="exit_opis_detalji">In addition to the title of \"Best European Festival\" won at the European Festival Awards in 2013 and 2017, EXIT was named the best European festival at the British Festival Awards in 2007. EXIT was also named the Best European Festival for 2016 by the leading European tourism award \"European Best Destinations\", which is awarded in cooperation with the European Commission, while the Regional Cooperation Council in 2017 selected EXIT Festival as the Champion of Regional Cooperation in Southeast Europe.\nAll major media outlets in the world have written about Exit, with accolades from media moguls such as CNN (\"World\'s Top 5 Festivals\"), The Guardian (\"World\'s Best Festival\"),\nThe Sun (\"One of Europe\'s most popular music events \"), Euronews, New York Times, BBC (\"Top 3 Music Festivals\"), Forbes (\"Thanks to EXIT, Serbia is a festival hot spot worth your attention\"), The Times (\"Best European Festival\"), MTV \"World’s Best Festival\"), Huffington Post, Conde Nast Traveler, Daily Mail, The Independent, Lonely Planet and many others.</string>
+    <string name="exit_adresa">The Petrovaradin Fortress</string>
+    <string name="exit_transport">Bus - 3</string>
+    <string name="exit_telefon">+381&#8211;661&#8211;23&#8211;99</string>
+    <string name="exit_web">www.exitfest.org/</string>
+    <string name="exit_rVreme">Open 24 hours during the festival\n</string>
+    <string name="exit_cena">6.400 RSD</string>
+
+    <!-- Petrovaradinska tvrđava -->
+    <string name="petrovaradin">The Petrovaradin Fortress</string>
+    <string name="petrovaradin_opis">Petrovaradin Fortress is located in Novi Sad, Serbia, in Petrovaradin on the Danube and on the slopes of Fruška Gora.</string>
+    <string name="petrovaradin_opis_detalji">The cornerstone was laid by the Austrian Prince Croy. The construction of the fortress, according to the project of the French military architect Sebastian Vauban, lasted for a full 88 years, until 1780. The construction was led by Austrian military architects. The fortress was built on 122 hectares, on a hill that dominates the surroundings. It was invincible for the war technique of that time and even then it was named Gibraltar on the Danube. As an exclusively military facility, the Petrovaradin Fortress served until 1948. It was placed under state protection in 1951, since when it has been a cultural and tourist facility. In addition to museums, archives and a number of art studios, in recent years the Petrovaradin Fortress has hosted the music festival "Exit"</string>
+    <string name="petrovaradin_adresa">The Petrovaradin Fortress</string>
+    <string name="petrovaradin_transport">Bus - 3</string>
+    <string name="petrovaradin_telefon">/</string>
+    <string name="petrovaradin_web">www.visitnovisad.rs/petrovaradinska_tvrdjava.html</string>
+    <string name="petrovaradin_rVreme">Open 24 hours</string>
+    <string name="petrovaradin_cena">Free</string>
+
+    <!-- Strand -->
+    <string name="strand">Štrand</string>
+    <string name="strand_opis">The most beautiful beach on the Danube, Novi Sad is Strand officially opened its gates in 1911, although the people of Novi Sad used the magic of the Danube there long before that.</string>
+    <string name="strand_opis_detalji">At the end of the 19th century, Stengl is Danube baths were popular, the so-called "Švimšule", or swimming schools. Rafts with barrels tied to logs were set up on the Danube. The swimsuits that were Strand at the time do not look at all like what can be seen on the beach today. They hid more than they revealed. It is interesting that the swimsuit came with the ticket, which had to meet strict rules. Even then, Strand had an organized guard and rescue service, and swimming teachers were also hired. There are also records from that time of many wild beaches on both sides of the Danube that were visited by those to whom Strand was far away, or did not have a ticket.By building three rows of wooden cabins in 1913, then a ticket office, bicycle barracks, showers, restaurants, saloons, trampolines, ski jumps and boat ramps for rent, Strand, with carefully nurtured greenery and dense tree lines, provided high comfort and an enviable appearance of the white world. elegance.</string>
+    <string name="strand_adresa">Novi Sad</string>
+    <string name="strand_transport">Bus - 4, 8</string>
+    <string name="strand_telefon">+381&#8211;21&#8211;00&#8211;266</string>
+    <string name="strand_web">zelenilo.com/strand/</string>
+    <string name="strand_rVreme">Open: 8h - 24h</string>
+    <string name="strand_cena">50 RSD</string>
+
+    <!-- Katakombe -->
+    <string name="katakombe">"Catacombs "</string>
+    <string name="katakombe_opis">Below the Petrovaradin Fortress, there are about 20 kilometers of underground tunnels, in which there is a well from which Jozef Drugi, the son of Maria Theresa, drank water.</string>
+    <string name="katakombe_opis_detalji">The corridors are more than 20 kilometers long and are arranged in four levels. Each level is in a different color, so the first level is marked in red, the second in green, the third in blue, and the fourth in black. The most mysterious and strange place at the bottom of the fourth, black level is the so-called Kaiser well, from which the son of Maria Theresa, Joseph, the Austrian emperor, drank water.\nThe existence of the well is logical because in the event of a siege, it was important that the military crew have a source of water. According to our research, King Joseph came to the well several times. Opposite the well, there is a board on which it is noted in German that he visited this place. It is written on the board that Jozef drank water from the well, accompanied by the commander of the mining corps - says Leon Šurbanović.</string>
+    <string name="katakombe_adresa">Petrovaradin Fortress, Novi Sad 21131</string>
+    <string name="katakombe_transport">Bus - 3</string>
+    <string name="katakombe_telefon">/</string>
+    <string name="katakombe_web">www.radiosignal.rs/katakombe-ispod-tvrdave-sve-tajne-podzemlja/</string>
+    <string name="katakombe_rVreme">Open: 8h - 15h</string>
+    <string name="katakombe_cena">Free</string>
+
+    <!-- Dunavska ulica -->
+    <string name="dunavska">"Danube Street "</string>
+    <string name="dunavska_opis">The oldest street in Novi Sad with beautiful facade ornaments that adorn the buildings, Ilica leading to the Danube Park and the beautiful river Danube.</string>
+    <string name="dunavska_opis_detalji">Dunavska Street is probably the oldest street in Novi Sad. It consists of three parts: from the direction of Zmaj Jovina Street, there are one-storey houses on the left and right, in the ground floors of which there are bars of different purposes; the other part is the Danube Park on one side and the Garrison Command, the Museum of Vojvodina and the History Museum, on the other, while the third part, near the Danube, is the garden of the officers\' home on the left and a multi-storey neo-baroque house.</string>
+    <string name="dunavska_adresa">Dunavska Novi Sad</string>
+    <string name="dunavska_transport">Bus - 3,4,6,8</string>
+    <string name="dunavska_telefon">/</string>
+    <string name="dunavska_web">www.novisad.rs/lat/dunavska-ulica-i-dunavski-park</string>
+    <string name="dunavska_rVreme">"Open 24 hours "</string>
+    <string name="dunavska_cena">Free</string>
+
+    <!-- Dunavski park -->
+    <string name="dunavski_park">"Danube Park "</string>
+    <string name="dunavski_park_opis">The most beautiful park in Novi Sad with over 250 plant species is located in the city center, and covers an area of 33,695 square meters. The park is under the protection of the Republic Institute for Nature Protection.\n\n</string>
+    <string name="dunavski_park_opis_detalji">Landscaping for the Danube Park began in 1895 on a large meadow where large annual fairs had been held until then. Therefore, the meadow where the landscaping of the park began was called the fairground.\nFirst, the space in front of the then Court Palace was arranged - grass was planted, trees were planted and dirt paths were made. Since 1912, the area has been adorned with the sculpture \"Nymphs\", the work of the Novi Sad sculptor George Jovanovic. There is also a monument to Đuro Jakšić, the work of Jovan Soldatović, a figure of the Venerable Sergius of Radonezh (gift from the Russian-Serbian Friendship Society), a bust of Branko Radičević (the work of Ivanka Acin), and in 1992 a bust of Miroslav Antić was erected by Pavle Radovanović.</string>
+    <string name="dunavski_park_adresa">Dunavska Novi Sad</string>
+    <string name="dunavski_park_transport">Bus - 3, 4, 6, 8</string>
+    <string name="dunavski_park_telefon">/</string>
+    <string name="dunavski_park_web">www.novisad.rs/lat/dunavska-ulica-i-dunavski-park</string>
+    <string name="dunavski_park_rVreme">"Open 24 hours "</string>
+    <string name="dunavski_park_cena">Free</string>
+
+    <!-- Ledinacko jezero -->
+    <string name="ledinacko_jezero">"Ledinačko Lake "</string>
+    <string name="ledinacko_jezero_opis">In the first place, we put what is most noticeable in Novi Sad and the most spectacular for everyone who comes to Freedom Square, and that is the Roman Catholic Church of the Name of Mary. This one, with its current appearance, was built in 1894. Before it, there was a small modest church from the 18th century with a cemetery in its hinterland. The current cathedral is 52 meters long and 25 meters wide. The tower is perhaps the most impressive of this building. It is 72 meters high with a clock on all four sides. The whole church is done in neo-Gothic style, while the windows are decorated with stained glass windows. It is magnificent both outside and inside and our advice is that if you are not already, take a peek into this peaceful house, if not because of someone else\'s wait, then admire the past times that have been preserved for us.</string>
+    <string name="ledinacko_jezero_opis_detalji">In the late 1990s and early 2000s, the rights to exploit the lake were discussed by several parties: the local community, the city of Novi Sad, the mining company \"Alas\" registered in Rakovec and the public company that managed the Fruska Gora National Park. Due to unclear decisions of the Municipality and the Court, there was a possibility that the lake would disappear immediately, as the mining company claimed back its quarry, and the lake seemed unstable due to a possible water spill. The management of the Fruška Gora National Park denied the rumors from 2006 that the rights to use the quarry were sold to an Austrian company, since the Assembly of Vojvodina has already adopted a plan to preserve the lake. In the end, the discussions ended in favor of preserving the lake.\nThe future of the lake is uncertain. In the period from 2001 to 2006, there was a small tourist resort next to it, and the local community of Stari Ledinci and the company that manages the resort had a desire to expand tourist services. However, in June 2006, a landslide injured several swimmers, and public access to the lake was banned. The Republic Inspectorate for Environmental Protection ordered the lake to be emptied immediately (since the 2002 order was not carried out), as the water level reached the top and began to overflow. Also, the Republic Bureau for Environmental Protection expressed the opinion that the exploitation should be stopped first, along with works on the protection and preservation of nature, and that the purpose of the lake be changed to recreational.\nThe lake was emptied during the summer of 2009.</string>
+    <string name="ledinacko_jezero_adresa">Ledinci</string>
+    <string name="ledinacko_jezero_transport">Autobus</string>
+    <string name="ledinacko_jezero_telefon">/</string>
+    <string name="ledinacko_jezero_web">fruskac.net/rs/lokacije/jezera/ledinacko</string>
+    <string name="ledinacko_jezero_rVreme">"Open 24 hours "</string>
+    <string name="ledinacko_jezero_cena">Free</string>
+
+    <!-- Varadinski most -->
+    <string name="varadinski_most">"Varadin Bridge "</string>
+    <string name="varadinski_most_opis">Varadinski most je naziv koji se koristi za više mostova na Dunavu koji su se vremenom prostirali između Novog Sada i Petrovaradina.</string>
+    <string name="varadinski_most_opis_detalji">This bridge is the first bridge to be rebuilt after World War II. It was renovated in 1945, and until the construction of Žeželj\'s bridge, railway tracks went over it. It was of simple lattice construction. In 1999, it was planned to raise it to the prescribed height, however, on April 1, 1999, NATO aviation shot down it with several projectiles. Immediately after the end of the NATO aggression, the construction of a new bridge began. At the end of 1999, the remains of the old bridge were removed, and at the beginning of 2000, the workers of the Nis Ministry of Labor worked day and night to provide Novi Sad with a new permanent bridge. It opened in September 2000, just before the elections. At the opening, it was named \"Varadin\'s Rainbow\", but later the name was changed to Varadin Bridge.</string>
+    <string name="varadinski_most_adresa">Varadin Bridge , Novi Sad 21000</string>
+    <string name="varadinski_most_transport">Bus - 3, 6</string>
+    <string name="varadinski_most_telefon">/</string>
+    <string name="varadinski_most_web">sr.wikipedia.org/sr-el/%D0%92%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82</string>
+    <string name="varadinski_most_rVreme">"Open 24 hours "</string>
+    <string name="varadinski_most_cena">Free</string>
+
+    <!-- Zezeljev most -->
+    <string name="zezeljev_most">Zezeljev Bridge</string>
+    <string name="zezeljev_most_opis">Žeželj\'s bridge is a railway-road arch bridge on the Danube in Novi Sad. Its total length is 474 meters. Built in 1961, it was destroyed in the NATO bombing of Yugoslavia in 1999. It was rebuilt in 2018, six years after the works began. It connects Novi Sad and Petrovaradin and is part of the international railway Belgrade-Budapest.</string>
+    <string name="zezeljev_most_opis_detalji">The original 377-meter-long bridge was built from 1957 to 1961, as a unique example of construction using prestressed concrete. In the first phase, arches were built, and then August was built, which hung on steel cables attached to the arches of the bridge. The project was done by the famous Yugoslav civil engineer Branko Žeželj.\nThe arches of the bridge have become one of the sights of Novi Sad. An international railway passed through it, as well as a transit road through Novi Sad. With its demolition, these roads were cut off for a short time.\nThe bridge was destroyed 12 times after it was destroyed in 1999. In the NATO bombing in 1999. On April 23, 1999, with several direct hits, the bridge was finally demolished. Then, the railway traffic between Subotica and Belgrade was cut off. During the bombing, Novi Sad was left without all three major bridges over the Danube (Freedom Bridge, Varadin Bridge and Žeželj Bridge). The temporary road-railway bridge, built in 2000, replaces the lack of Žeželj\'s bridge.\nAfter the preparation of project documentation and the signing of the contract on construction and financing in 2011, the construction of a new bridge began on the site of the former one in 2012. By design, the bridge is visually similar to the former, except that the arches of the new bridge are made of steel instead of prestressed concrete. The bridge consists of two arches, one 219 meters long and 42 meters high, and the other, 177 meters long and 34 meters high. In October 2017, five years after the start of construction, the two arches of the new bridge were connected, thus bridging the Danube River. The value of the works until 2017 amounted to 51.71 million euros.</string>
+    <string name="zezeljev_most_adresa">"Belgrade Quay 27, Novi Sad "</string>
+    <string name="zezeljev_most_transport">Bus</string>
+    <string name="zezeljev_most_telefon">/</string>
+    <string name="zezeljev_most_web">sh.wikipedia.org/wiki/%C5%BDe%C5%BEeljev_most</string>
+    <string name="zezeljev_most_rVreme">"Open 24 hours "</string>
+    <string name="zezeljev_most_cena">Free</string>
+
+    <!-- Most slobode -->
+    <string name="most_slobode">"Freedom Bridge "</string>
+    <string name="most_slobode_opis">The Bridge of Freedom is a bridge over the Danube in Novi Sad. The bridge was opened on October 23, 1981, and bombed on April 3, 1999 (NATO bombing). The Freedom Bridge was rebuilt and opened to traffic in October 2005.</string>
+    <string name="most_slobode_opis_detalji">It was designed by academician Nikola Hajdin, with the help of associate engineers Gojko Nenadović and Predrag Želalić.\nThe bridge is on two pillars with oblique tensions. The pillars are 60 meters high at a distance of 361 meters. There are a total of 48 cables (clamps). The length of the bridge construction is 1382 meters.\nThe construction of the bridge lasted 5 years, 30,000 cubic meters of concrete were installed with 2,150 tons of concrete iron, as well as 10,000 tons of steel.\nThe bridge has 6 car lanes (3 in each direction) and two pedestrian lanes.\nThe reconstruction cost 40 million euros and lasted for 2 years and 22 days. The bridge was released twice. First, Maja Gojković, the mayor of Novi Sad, opened the bridge on October 7, 2005 [1], and then it was opened by the European Commissioner for Enlargement Olli Rehn on October 11, in the presence of a state delegation almost 24 years after the first opening.</string>
+    <string name="most_slobode_adresa">Sremska Kamenica</string>
+    <string name="most_slobode_transport">Bus - 3</string>
+    <string name="most_slobode_telefon">/</string>
+    <string name="most_slobode_web">www.flickr.com/photos/28572961@N06/3077927933</string>
+    <string name="most_slobode_rVreme">"Open 24 hours "</string>
+    <string name="most_slobode_cena">Free</string>
+
+
+    <!-- Spens -->
+    <string name="spens">Spens</string>
+    <string name="spens_opis">Sports and business center Vojvodina, popularly called SPENS (which is actually an abbreviation of the Table Tennis Championship of Europe Novi Sad) is a sports and business center located in Novi Sad, in the Old Town. Construction of the hall began in May 1979, and it opened on April 14, 1981 for the 36th World Table Tennis Championships.</string>
+    <string name="spens_opis_detalji">SPENS was designed by Živorad Janković and Branko Bulić from the Institute of Urbanism of the Faculty of Architecture in Sarajevo. The Sports and Business Center of Vojvodina consists of a hall, open sports fields, Karađorđe Stadium and a garage with parking space. The area of the location where the SPENS hall was built is almost 200,000 m2, of which the building itself occupies 85,091 m2, and the Karađorđe Stadium is 32,483 m2. The usable area of indoor sports facilities is 46,319 m2.</string>
+    <string name="spens_adresa">Stujeska 2, Novi Sad 21000</string>
+    <string name="spens_transport">Bus - 4,8</string>
+    <string name="spens_telefon">+381&#8211;21&#8211;4882&#8211;230</string>
+    <string name="spens_web">www.tiketklub.com/koncerti/spens-novi-sad/spens-novi-sad/</string>
+    <string name="spens_rVreme">Open: 6h - 00h</string>
+    <string name="spens_cena">Free</string>
+
+    <!-- Priroda & Kultura -->
+    <!--Katedrala -->
+    <string name="katedrala">"Cathedral "</string>
+    <string name="katedrala_opis">The Church of the Name of Mary is a Roman Catholic church, located in the center of Novi Sad, on Freedom Square. The Feast of the Church, Name of Mary, is celebrated on September 12. This church is also the largest in Novi Sad. The citizens of Novi Sad also call the church a \"cathedral\", although Novi Sad belongs to the Subotica diocese, whose cathedral is in Subotica.</string>
+    <string name="katedrala_detail_opis">The first Catholic church in Novi Sad from the first decades of the 18th century was a modest, temporary building that was demolished in 1742. A new one was built on the same site. Catholic Archbishop Gabor Patačić consecrated the new church in 1742. In the bombing on June 12, 1849, she was also set on fire and her tower was destroyed. In the later renovation, the original tower was not completely reconstructed. The Catholics of Novi Sad were not satisfied with the appearance, so they took the initiative in the City Assembly to build one that would look like Novi Sad as a free royal city. Also, in the bridgehead on the bank of the Danube (\"Brukšanac\"), there was the church of St. John of Nepomuk, which was demolished during the construction of the entrance to the King Tomislav Bridge and Queen Maria Boulevard (today\'s Mikhail Pupin Boulevard) (1928). In 1891. a decision was made to demolish the old church and build a new one on the same site. Architect Georg Molnar made plans during 1892 and did not ask for any compensation for this extensive work (the church repaid him by placing his bust in a niche to the left below the choir in the church, which is unusual for a secular person). In the same year, the old church was demolished, and the following year, in 1893, entrepreneurs Stefan Gusek and Karl Lerer, under the supervision of designer Molnar, completed the construction part of the work. In October 1894, a consecrated gilded cross was erected on the tower. The tower is 72 meters high. In the same year, the old church was demolished, and the following year, in 1893, entrepreneurs Stefan Gusek and Karl Lerer, under the supervision of designer Molnar, completed the construction part of the work. In October 1894, a consecrated gilded cross was erected on the tower. The tower is 72 meters high. In the same year, the old church was demolished, and the following year, in 1893, entrepreneurs Stefan Gusek and Karl Lerer, under the supervision of designer Molnar, completed the construction part of the work. In October 1894, a consecrated gilded cross was erected on the tower. The tower is 72 meters high. The church is 52 meters long and 25 meters wide, and the roof is 22 meters high. The church has 4 altars. The main one is in the apse where there is a large picture of the Mother of God, with Hungarian kings and saints Istvan and Laszlo. To the left of the apse is the altar of the Resurrection of Jesus with figures in the tree of Saints Peter and Paul. The third altar is dedicated to St. Florian, the patron saint of firefighters, where figures of Saints Emeric and Elizabeth were made in wood, and there is also a picture of St. Families. The fourth altar is located under the choir and is dedicated to Christ\'s tomb with figures of four angels. The sculptures on all the altars are colored or made in imitation of stone (marbling). The facade is made of yellow facade brick, and the church itself, as well as the interior carvings, is made in the neo-Gothic style. The windows are decorated with stained glass windows, while Žolnai ceramics cover the roof structure.\n\n</string>
+    <string name="katedrala_adresa">Catholic gate , Novi Sad 21000</string>
+    <string name="katedrala_transport">Bus - 72</string>
+    <string name="katedrala_telefon">+381&#8211;21&#8211;661&#8211;6862</string>
+    <string name="katedrala_web" />Opsirnije o katedrali:
+    ilovenovisad.com/vodic/sakralni-objekti/katolicka-crkva-ime-marijino/
+    <string name="katedrala_rVreme">Open: 8h - 15h</string>
+    <string name="katedrala_cena">Free</string>
+
+
+    <!-- Fruska gora National Park -->
+    <string name="fruska_gora">"Fruska Gora - National Park "</string>
+    <string name="fruska_gora_opis">Scientists call the lonely island mountain raised in the middle of the great Pannonian plain \"a mirror of the geographical past\". Serbs can call it a mirror of the cultural and spiritual past, whose branches adhere to the centuries-old forests of the oldest Serbian National Park.</string>
+    <string name="fruska_gora_detail_opis">Fruška gora, a former island of the Pannonian Sea, belongs to the island\'s old huge mountains. Stretching in the west-east direction, about 80 kilometers long and 15 kilometers wide, with the highest peak of 539 meters - Crveni čot, Fruška gora represents the dominant orographic unit of the Pannonian plain. The Fruška Gora mountain range is bounded on the east and north by the alluvial plains of the Sava and the Danube, and on the south and west by the Srem light plateau. The Romans called it Alma Mons, which means \"fertile mountain\", and today\'s name comes from the old Slavic ethnonym Frug, synonymous with the Franks, which gives the name the meaning \"mountain of the Franks\". Due to its turbulent geological past, a real treasure trove of fossil flora and fauna in its sediments, numerous rare representatives of flora and fauna living in this area, as well as invaluable cultural and historical heritage, Fruška gora was declared a national nature park in 1960.</string>
+    <string name="fruska_gora_adresa">Dragon square  1, Sremska Kamenica 21208</string>
+    <string name="fruska_gora_transport">Bus - 72</string>
+    <string name="fruska_gora_telefon">+381&#8211;21&#8211;462&#8211;662</string>
+    <string name="fruska_gora_web">More detailed : www.npfruskagora.co.rs</string>
+    <string name="fruska_gora_rVreme">"Open all year round "</string>
+    <string name="fruska_gora_cena">Free</string>
+
+    <!-- Spomenik Svetozar Miletic -->
+    <string name="spomenik_sMiletic">Monument to Svetozar Miletić</string>
+    <string name="spomenik_sMiletic_opis">The monument to Svetozara Miletić in Novi Sad is located on the Freedom Square in front of the City Hall, it was unveiled in 1939.\nSvetozar Miletic (1826 -1901) was the most important leader of the Serbian people in the Habsburg monarchy, MP, lawyer and mayor of Novi Sad.\n\n</string>
+    <string name="spomenik_sMiletic_detalji_opis">The monument to Svetozar Miletic (1826-1901), the most important leader of the Serbian people in the Habsburg Monarchy, MP, lawyer and mayor of Novi Sad, made of bronze, 500 cm high, the work of sculptor Ivan Mestrovic, was erected for the first time in 1939 in front of the City Hall on Freedom Square in Novi Sad. The monument was removed during the Second World War, but it was returned to it is place in 1944. On a new pedestal made of gray marble 215/138/157 cm, the sculptor Pavle Radovanović engraved, in 1951, the text: \"Svetozar Miletić 1826 ~ 1901, the work of Ivan Meštrović 1939\". The monument has been determined as an immovable cultural asset ~ a cultural monument of great importance.</string>
+    <string name="spomenik_sMiletic_adresa">Dragon square  1, Сремска Каменица 21208</string>
+    <string name="spomenik_sMiletic_trasport">Bus - 3, 4, 7, 8</string>
+    <string name="spomenik_sMiletic_telefon">+381&#8211;21&#8211;462&#8211;662</string>
+    <string name="spomenik_sMiletic_web">More detailed : www.npfruskagora.co.rs/</string>
+    <string name="spomenik_sMiletic_rVreme">"Open all year round "</string>
+    <string name="spomenik_sMiletic_cena">Free</string>
+
+    <!-- Srpsko narodno pozoriste -->
+    <string name="srpsko_narodno_pozoriste">"Serbian National Theater "</string>
+    <string name="srpsko_narodno_pozoriste_opis">The Serbian National Theater was founded on 16/28. July 1861 in Novi Sad, in the then Empire of Austria (since 1867 the Austro-Hungarian monarchy). By that time, Vojvodina already had a long theatrical tradition, from student amateur performances to private professional theater troupes. The theater was founded at a time of awakening national consciousness and the struggle for national freedom. At that time, the majority of Novi Sad residents were Serbs, a large number were highly educated, three quarters of property and trade were in the hands of Serbs, so it is no coincidence that the Serbian National Theater was founded in Novi Sad.</string>
+    <string name="srpsko_narodno_pozoriste_detalji_opis">Posle rata Srpsko narodno pozoršte dobija status državne ustanove. Prva predstava 17. marta 1945. bila je Najezda Leonida Leonova. Dramski ansambl činili su glumci predratnog Narodnog pozorišta Dunavske banovine koji su okupaciju proveli u Novom Sadu, glumci Druge sekcije istog pozorišta, nekoliko glumaca koji su došli iz Beograda i nekoliko talentovanih amatera. Od decembra 1944. do decembra 1951. radi pod imenom Vojvođansko narodno pozorište. Prvobitno su predstave igrane u zgradi Mađarske rimokatoličke čitaonice u porti katoličke crkve, a u leto 1945. otvorena je Letnja pozornica u samoj porti. Zgrada Doma kulture (bivši Sokolski dom, danas Pozorište mladih) Pozorištu je ustupljena 1947. godine. Tu zgradu SNP koristi sve do useljenja u svoju zgradu 28. marta 1981. godine. Pored scene u Domu kulture, SNP je 2. oktobra 1959. otvorilo svoju Malu salu u Ulici Jovana Subotića 5, koja od januara 1961. nosi ime Veseli teatar „Ben Akiba“ (danas Novosadsko pozorište).</string>
+    <string name="srpsko_narodno_pozoriste_adresa">Theater square  1, Novi Sad</string>
+    <string name="srpsko_narodno_pozoriste_trasport">Bus - 3, 4, 7, 8</string>
+    <string name="srpsko_narodno_pozoriste_telefon">+381&#8211;21&#8211;662&#8211;141</string>
+    <string name="srpsko_narodno_pozoriste_web">More detailed : www.snp.org.rs/</string>
+    <string name="srpsko_narodno_pozoriste_rVreme">Open: 10h - 22h</string>
+    <string name="srpsko_narodno_pozoriste_cena">1000 ~ 2100 RSD</string>
+
+
+    <!-- Spomenik zrtava racije -->
+    <string name="zrtvama_racije">"Monument to the victims of the raid "</string>
+    <string name="zrtvama_racije_opis">The monument to the victims of the raid in Novi Sad was erected in 1971 and represents a famous place as an immovable cultural asset of great importance.\n</string>
+    <string name="zrtvama_racije_detalji_opis">U Novom Sadu, na keju koji danas nosi ime Kej žrtava racije, fašistički okupator je u takozvanoj „januarskoj raciji“ od 21. do 23. januara 1942. izvršio masovno streljanje više od hiljadu nedužnih građana Novog Sada. Na tom mestu podignuta je bronzana kompozicija „Porodica“, visoka 4 m, posvećena žrtvama palim u Drugom svetskom ratu. Spomenik je rad vajara Jovana Soldatovića i otkriven je 1971. godine. Početkom 1992. spomenik je upotpunjen sa još 78 bronzanih ploča koje je izradio isti vajar. Na četiri ploče (tri sa tekstom na srpskom i jedna na hebrejskom jeziku) ispisane su osnovne informacije o događaju, a na 66 ploča imena ubijenih ličnosti. Između ploča sa tekstovima ritmički su raspoređene ploče ukrašene simbolima Davidove zvezde (4 ploče), krsta (2) i ocila (1). Ispod spomenika se nalaze ploče sa tekstvima na srpskom, mađarskom, slovačkom i hebrejskom jeziku. Rekonstrukcija nasilno uklonjenih ploča je izvršena 2004. godine.</string>
+    <string name="zrtvama_racije_adresa">Sunny quay, Novi Sad 21000</string>
+    <string name="zrtvama_racije_trasport">Bus - 3, 4, 6, 8</string>
+    <string name="zrtvama_racije_telefon">/</string>
+    <string name="zrtvama_racije_web">More detailed: ilovenovisad.com/vodic/spomenici/spomenik-zrtvama-racije/</string>
+    <string name="zrtvama_racije_rVreme">"Open all year round "</string>
+    <string name="zrtvama_racije_cena">Free</string>
+
+    <!-- Matica srpska -->
+    <string name="matica_srpska">Matica srpska</string>
+    <string name="matica_srpska_opis">The Matica Srpska building in Novi Sad was built in 1912, according to the project of architect Momcilo Tapavica. The building is on the list of immovable cultural assets of Serbia, in the category of cultural assets of great importance. It is located at 1 Matice srpske Street.</string>
+    <string name="matica_srpska_detalji_opis">The building is a one-story building with wings along two streets. The corner is cut with a bay window on the first floor and a dome of complex architecture. It was built in a pseudo-classicist style characterized by calm and balanced forms, with reduced ornamentation. Classical simplicity, monumentality, harmony of volume and detail, characterize this glamorous building. The façade features ancient architectural sculpture with tympanums, arches and wreath decorations, taken from strict Roman architecture, but also inspired by pure and elegant Greek forms. The facade is painted yellow-beige in the ground floor and roof levels. At the level of the first floor, the final façade layer is made of dark beige façade brick. The roof covering consists of blue dove sheet metal panels, while the details on the roof are shaped from dark blue sheet metal. A lot of attention has also been paid to interior design. It contains portraits of the founders of Matica Srpska and other important personalities, works by famous authors of Serbian painting. The Matica Srpska Library is also located in this building. Six busts of famous people were placed in front of the building.</string>
+    <string name="matica_srpska_adresa">Matice srpske 1, Novi Sad 21101</string>
+    <string name="matica_srpska_trasport">Bus - 3, 4, 6, 8</string>
+    <string name="matica_srpska_telefon">+381&#8211;21&#8211;527&#8211;855</string>
+    <string name="matica_srpska_web">More detailed: www.maticasrpska.org.rs/stariSajt/fotografije/index.html</string>
+    <string name="matica_srpska_rVreme">Open: 7:30 ~ 14:30h</string>
+    <string name="matica_srpska_cena">Free</string>
+
+
+    <!-- Shopping -->
+    <!-- Promenda -->
+    <string name="promenada">Promenada</string>
+    <string name="promenada_opis">The Promenade shopping center is located in one of the most attractive locations in Novi Sad, on the corner of Bulevar oslobođenja and Bulevar cara Lazar. The promenade, with a total built-up area of ​​150,000 square meters, is an investment of NEPI Rockcastle, a leading investment real estate company in Central and Eastern Europe.\nThe unique design of the Promenade stands out in many ways compared to other shopping centers. It is designed to allow a large amount of natural light to enter, which gives visitors a special pleasure. Also, within the courtyard of the Promenade, there are three basketball courts. What makes the Promenade even more attractive and interesting to visitors are the two spacious terraces, one of which has a view of the recognizable landmark of Serbian Athens - Petrovaradin Fortress.\nThe new 49,000 square meters of space designed for enjoyment and shopping, contains more than 160 brands and 1,500 parking spaces, including special parking spaces for families with small children. Also, the shopping center provides other benefits for parents with small children (baby room, milk heater, stroller, playroom, etc.), who can step into shopping without the burden and worries.\nSome of the well-known brands that can be found in the Promenade are the Inditex Group brands consisting of Zara, Massimo Dutti, Zara Home, Oysho, Pull and Bear and Bershka, then the LPP Group brands - Mohito, Sinsay and Reserved. The Promenade also houses LC Waikiki, as well as the Fahion Company and Sportina with their brands. In addition, many sports brands including Intersport, Sport Vision and N Sport, as well as stores for the youngest such as Jungle Baby, Dexy Co Kids and Pertini Toys are also available. That\'s not all, because among other things in the Promenade we can buy in Liska, Orsay, Legend, Tiffany, Moni, as well as many others.\n\n</string>
+    <string name="promenada_adresa">Bulevar oslobođenja 119, Novi Sad 21000</string>
+    <string name="promenada_transport">Bus - 4, 7</string>
+    <string name="promenada_rVreme">Open: 10:00 ~ 22:00</string>
+
+    <!-- Merkator -->
+    <string name="merkator">Merkator</string>
+    <string name="merkator_opis">Mercator centar omogućuje svojim posetiocima doživljaj lepote i lakoće savremenog života I idealno je mesto za sve one koji žele da gradsku vrevu zamene uživanjem. U ambijentu Mercator centra mnogobrojni posetioci pronalaze zabavu tokom radnih dana, vikenda i praznika – sedam dana u nedelji, od 7:30h do 22h. U svom sastavu objedinjuje hipermarket i veliki broj radnji svetskih poznatih brendova koje pružaju posetiocima uvek aktuelne modne kolekcije, kao i odličan izbor kućnih aparata i ostalih proizvoda.</string>
+    <string name="merkator_adresa">Bulevar oslobođenja 102, Novi Sad 21000 </string>
+    <string name="merkator_transport">Autobus - 4,7</string>
+    <string name="merkator_rVreme">Open: 7:30 ~ 22:00</string>
+
+    <!-- Big -->
+    <string name="big">Big</string>
+    <string name="big_opis">If you happen to be in Novi Sad, it is inevitable to visit the BIG shopping center, the largest shopping center in Vojvodina. BIG is the main destination for families and all those who want to do the best shopping and, in addition, have great fun.\nBIG shopping center is located only 3.5 km from the center of Novi Sad, and visitors have 1500 parking spaces and over 100 shops, restaurants and cafes such as H and M, LC Waikiki, Mango, Fashion and Friends, C and A, McDonalds, KFC and many others.\nEnjoyment is greatest where shopping is great. Where there is the greatest choice, there is great fun, of course. That is why all roads in Vojvodina lead to BIG, which always tries to surprise all its visitors with various entertainment contents for the whole family, so far numerous concerts of popular performers, various children\'s contents, prize games and a handful of other activities have been organized.\nWithin the TC BIG is the largest cinema in Vojvodina - CineStar. The cinema has ten halls equipped with the most modern equipment, and the first 4DX hall in Serbia is available to visitors.</string>
+    <string name="big_adresa">Sentandrejski put 11, Novi Sad 21000</string>
+    <string name="big_transport">"Bus - 17"</string>
+    <string name="big_rVreme">Open: 10:00 ~ 22:00</string>
+
+    <!-- Bazar -->
+    <string name="bazar">Bazar</string>
+    <string name="bazar_opis">TC BAZAR is located in the center of Novi Sad, at the beginning of the pedestrian zone and has been an unavoidable place for shopping for years. Various shops, a coffee club with an extraordinary view, a children\'s playroom, a supermarket, a hairdresser, a manicure and a fitness center, are located on four levels, on about 9,000 m2 of commercial space.\nHere you can spend your free time in the company of family and friends, shopping or socializing and relaxing every day from 9 am to 9 pm and on Sundays from 10 am to 6 pm. While you are shopping, professional animators will take care of your children in the children\'s playroom, and after a fantastic shopping trip, you can refresh yourself in the Greenet cafe or the Giardino coffee club.</string>
+    <string name="bazar_adresa">Boulevard Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="bazar_transport">Bus - 3, 4, 6, 8</string>
+    <string name="bazar_rVreme">Open: 09:00 ~ 21:00</string>
+
+    <!-- Nork -->
+    <string name="nork">Nork</string>
+    <string name="nork_opis">In December 2016, the New Real Shopping Center joined the Mat Real Estate Group. As the owner of the Novi Sad shopping center with the longest tradition - TC Sad Novi Bazaar, Mat Real Estate has decided to enrich this part of the business with another facility for the same purpose, and also with a long tradition in Novi Sad.\nThis recognizable building is located in the very center of the city, right next to the central building of the Post Office, adorning the corner of Mihajlo Pupin Boulevard and Jevrejska Street. SC New Nork was built in the 70\'s and functioned as a department store for a long time, until in 2007 it was renovated and reopened as a shopping center New Nork, and later donated to the City of Novi Sad fountain located on the plateau in front of the building.\nThe facility now operates: La Sorella shopping center, Rainbow playroom for children, New Hong Kong Chinese restaurant, DM store, Idea market, Big Blue travel agency, Mana Moda.</string>
+    <string name="nork_adresa">Boulevard Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="nork_transport">Bus - 1, 3, 4, 6, 8</string>
+    <string name="nork_rVreme">Open: 07:30 ~ 22:00</string>
+
+    <!-- Elephant city -->
+    <string name="elephant">Elephant city</string>
+    <string name="elephant_opis">Robna kuća širokog asortimana kvalitetne robe po najpovoljnijim cenama! Sve za Vas i Vaš dom! :-)</string>
+    <string name="elephant_adresa">Boulevard oslobođenja 68b, Novi Sad</string>
+    <string name="elephant_transport">Bus - 4, 7</string>
+    <string name="elephant_rVreme">Open: 08:30 ~ 21:30</string>
+
+    <!-- Pariski magazin -->
+    <string name="pariski_magazin">Paris magazine</string>
+    <string name="pariski_magazin_opis">"TC Paris Magazine - Savremeni šoping mol u centru Novog Sada. "</string>
+    <string name="pariski_magazin_adresa">Theater Square 1, Novi Sad 21000</string>
+    <string name="pariski_magazin_transport">Bus - 3, 4, 6, 8</string>
+    <string name="pariski_magazin_rVreme">Open: 09:00 ~ 19:30</string>
+
+    <!-- Food -->
+    <!-- Gondola -->
+    <string name="gondola">Gondola</string>
+    <string name="gondola_opis">Restoran GONDOLA svojim ekskluzivnim enterijerom i bogatom ponudom internacionalne kuhinje nudi gostima prijatno mesto za poslovni sastanak ili opuštanje u samom centru Novog Sada.</string>
+    <string name="gondola_adresa">Bul. Mihajla Pupina 18, Novi Sad 21000</string>
+    <string name="gondola_transport">Bus -  3, 4, 6, 8</string>
+    <string name="gondola_phone">+381&#8211;21&#8211;56&#8211;563</string>
+    <string name="gondola_web">www.gondola-restoran.rs</string>
+    <string name="gondola_rVreeme">Working hours 08:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="gondola_cena">Chicken gondola:\n864 RSD ~\n        \nTacos with prawns:\n673 RSD ~\nRose wine:\n265 RSD ~</string>
+
+    <!-- The Camelot -->
+    <string name="the_camelon">The Camelot</string>
+    <string name="the_camelon_opis">We started catering in December 1999 with the opening of one of the most famous Novi Sad clubs, Ritmo Latino, which operated successfully until 2011. In August 2009, the cafe-confectionery Macchiato KD was opened in TC Mercator in Novi Sad. As a result of striving for professional progress, in April 2011, we are improving our business by opening the first Gastro Pub The Camelot in Novi Sad, which is highly positioned on the catering map of the city with its authentic ambience, food, home-brewed beer, service. The invested professional knowledge and effort results in the development of the business in December 2013, when we open the second Gastro Pub The Camelot Kopaonik. The company employs over 60 people in the winter. Our commitment is continuous professional development and business development.</string>
+    <string name="the_camelon_adresa">Sremska 9, Novi Sad 21000</string>
+    <string name="the_camelon_transport">Bus</string>
+    <string name="the_camelon_phone">+381&#8211;21&#8211;528&#8211;095</string>
+    <string name="the_camelon_web">www.thecamelot.rs</string>
+    <string name="the_camelon_rVreeme">Working hours 08:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="the_camelon_cena">THE CAMELOT BURGER SPECIAL 600GR 2 PCS:\n720RSD ~\n        \nTHE CAMELOT CLUB SANDWICH 600G:\n490 RSD ~\nKOVAČEVIĆ ORFELIN PINK 0,15l:\n180 RSD ~</string>
+
+    <!-- Plava frajla -->
+    <string name="plava_frajla">Blue frajla</string>
+    <string name="plava_frajla_opis">Ukoliko želite pravi nedeljni ručak, kao iz bakine kuhinje, nudimo Vam vojvođanski rinflajš. Mešavina rustičnih detalja i neobičnih dekora daje posebnu autentičnost našem enterijeru. Vojvođanske poslastice izrađene po originalnim receptima predstavljaju izazov za sva vaša čula.</string>
+    <string name="plava_frajla_adresa">prizemlje SPENS-a, pored stadiona., Sutjeska 2, Novi Sad 21000</string>
+    <string name="plava_frajla_transport">Bus - 8</string>
+    <string name="plava_frajla_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="plava_frajla_web">plavafrajla.rs</string>
+    <string name="plava_frajla_rVreeme">Working hours 08:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="plava_frajla_cena">Cabbage rolls:\n650RSD ~\n    \nHomemade sarma:\n650 RSD ~\nPink 0.2l:\n300 RSD ~</string>
+
+
+    <!-- Sokace -->
+    <string name="sokace">Sokace</string>
+    <string name="sokace_opis">Classic Serbian dishes prepared according to the recipes of the Nikolić family from Zaječar. The catering tradition of the family lasts for almost 100 years.\nThese are grilled dishes, kebabs, various burgers, donuts, sausages, various grilled chicken snacks, smoked neck, white veshalitsa, intestines, brisket, lamb.</string>
+    <string name="sokace_adresa">Павла Папа 11, Нови Сад 21101</string>
+    <string name="sokace_transport">Autobus</string>
+    <string name="sokace_phone">+381&#8211;21&#8211;6622&#8211;007</string>
+    <string name="sokace_web">restorani.rs/restoran/restoran-sokace-novi-sad</string>
+    <string name="sokace_rVreeme">Working hours 08:00 ~ 24:00
+        \n(※ throughout the week)</string>
+    <string name="sokace_cena">Gibanice with stretched homemade crusts - 500g (cheese or potatoes): \n480RSD ~
+    \nSerbian sarma portion (stewed mixed minced meat, rice in sauerkraut leaf): \n480 RSD ~ \nRose 0.2l: \n300 RSD ~</string>
+
+    <!-- Giardino -->
+    <string name="giardino">Giardino</string>
+    <string name="giardino_opis">
+Friendly and professional staff are waiting for you, and depending on when you visit us, expect an oasis of peace full of delicious food and drinks or a real club atmosphere!</string>
+    <string name="giardino_adresa">Boulevard Mihajla Pupina 1, Novi Sad 21000</string>
+    <string name="giardino_transport">Bus  - 3, 4, 6, 8</string>
+    <string name="giardino_phone">+381&#8211;66&#8211;000&#8211;100</string>
+    <string name="giardino_web">www.giardinoclub.com</string>
+    <string name="giardino_rVreeme">Working hours\nWorking day: 08:30 ~ 24:00\n        \nSaturday: 08:30 ~ 03:00\nSunday: 09:30 ~ 24:00</string>
+    <string name="giardino_cena">Fillet in gorgonzola and pear sauce (new potatoes, grilled seasonal vegetables, neutral sour cream)\n 810 RSD ~\n        \nPork fillet in bacon coat: 910 RSD\nLatte Macchiato by MONIN (chocolate / vanilla / caramel / hazelnut / almond) \\ N 230 RSD ~</string>
+
+    <!-- Fontana -->
+    <string name="fontana">"Fountain "</string>
+    <string name="fontana_opis">The fountain is a place where a part of the social life of the city is constantly flowing. Enjoy the relaxed atmosphere, the sounds of piano and violin in your company and delicious food from our kitchen. The exclusive restaurant Fontana is located in the most attractive part of the old town of Novi Sad in the well-known Pašićeva Street. Pleasant exterior, with a beautiful garden, fountain and unusually beautiful interior, our restaurant provides guests with an exceptional experience. First of all, we are known for good cuisine, based on both traditional Serbian cuisine and world gastronomic qualities. In addition, we offer you to order food at your address.\n\n</string>
+    <string name="fontana_adresa">/</string>
+    <string name="fontana_transport">Bus</string>
+    <string name="fontana_phone">+381&#8211;21&#8211;6621&#8211;779</string>
+    <string name="fontana_web">www.restoranfontana.com</string>
+    <string name="fontana_rVreeme">Working hours\nMonday - Thursday: 07:00 ~ 23:00\n        \nFriday - Sunday: 07:00 ~ 00:00</string>
+    <string name="fontana_cena">Chicken stew:\n280RSD ~\n    \nChef\'s specialty:\n1000 RSD ~\nPink 0.2l:\n300 RSD ~</string>
+
+    <!-- Petrus -->
+    <string name="petrus">Petrus</string>
+    <string name="petrus_opis">The beautiful and spacious garden and neat and modern interior, with large, glass windows made us feel very comfortable, especially when we watched them rain, a truly romantic sight, as is the spirit of Novi Sad. We hoped that the food would leave such an impression on us.</string>
+    <string name="petrus_adresa">Modene, Novi Sad 21000</string>
+    <string name="petrus_transport">Bus  - 3, 4, 6, 8</string>
+    <string name="petrus_phone">+381&#8211;66&#8211;3234&#8211;24</string>
+    <string name="petrus_web">www.petruscaffe.com</string>
+    <string name="petrus_rVreeme">Working hours 08:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="petrus_cena">VEGETARIAN PLATE (marinated grilled vegetables served with onion rings and spicy wedges potatoes combined with hilarious and homemade ajvar):\n790RSD ~\n    \nFISH and CHIPS (fish fillets in panko prezli, french fries, tartar sauce, mix of fresh salads)\n910 RSD ~\nPink 0.2l:\n300 RSD ~</string>
+
+    <!-- Drevna-->
+    <string name="drevna">Drevna</string>
+    <string name="drevna_opis">Our \"Ancient\" is a farm, but it differs in many ways from others… Less than 5 km from the center of Novi Sad, near the Danube, is our \"Ancient\". Quite far enough from the city noise, and yet very close, so that you can easily and quickly find yourself with us and enjoy with all your senses the charms of the natural environment. We have a restaurant of traditional cuisine, rich menu, as well as a large selection of both foreign and domestic drinks, high quality.</string>
+    <string name="drevna_adresa">Danube 6, Novi Sad 21000</string>
+    <string name="drevna_transport">Bus</string>
+    <string name="drevna_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="drevna_web">www.restoranivojvodine.com/salas-drevna-novi-sad</string>
+    <string name="drevna_rVreeme">Working hours 09:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="drevna_cena">/</string>
+
+    <!-- Ribarac -->
+    <string name="ribarac">Ribarac</string>
+    <string name="ribarac_opis">Restoran Ribarac je mesto gde ćete osetiti šarm, spontanost i lepotu uživanja. Elegantno namešten i impresivan u svakom pogledu, kapaciteta od 200 do 500 mesta, i baštom kapaciteta do 150 mesta može biti prilagođen da savršeno odgovori svim Vašim potrebama kao što su: svadbene svečanosti, prijemi, porodične proslave, kokteli i sl. Restoran Ribarac je moguće prilagoditi potrebama i manjih svadbi i svečanosti prema željama gostiju. Parking prostor od 300 mesta omogućava svakom gostu da bezbrižno provede vreme u restoranu. Ljubazno osoblje će učiniti sve da trenuci provedeni u restoranu Ribarac budu zaista prijatni i nezaboravni. Vrhunska hrana i usluga su dovoljni razlozi zbog kojih ćete se uvek rado vraćati u naš restoran.</string>
+    <string name="ribarac_adresa">Fishing island , Novi Sad 21000</string>
+    <string name="ribarac_transport">Bus</string>
+    <string name="ribarac_phone">+381&#8211;21&#8211;466&#8211;978</string>
+    <string name="ribarac_web">ribarskoostrvo.rs/rs/naslovna/restorani/ribarac.html</string>
+    <string name="ribarac_rVreeme">Working hours 09:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="ribarac_cena">Grilled lamb and pork\n        \nRolled stuffed chicken with potatoes\nRose</string>
+
+    <!-- Alaska terasa -->
+    <string name="alaska_terasa">"Alaska terrace "</string>
+    <string name="alaska_terasa_opis">Just renovated to the highest world standards, the Alaska Terrace restaurant is located on the banks of the Danube and has a wide range of the highest quality food and drinks. It has an open and closed garden with a beautiful view of the Danube and Fruška gora. The capacity of the restaurant is 186 seats, with an additional hundred seats in the garden area, which makes it ideal for smaller celebrations. The indoor garden is fully open in summer and is equipped with central heating, so that guests can enjoy the charms of the Danube in winter. The menu of the Alaska Terrace restaurant includes international, local, vegetarian and dishes adapted to the diet and other requirements of guests, and the restaurant\'s offer is complemented by a rich selection of the highest quality domestic and foreign wines.\n\n</string>
+    <string name="alaska_terasa_adresa">Fishing island , Novi Sad 21000</string>
+    <string name="alaska_terasa_transport">Bus</string>
+    <string name="alaska_terasa_phone">+381&#8211;2&#8211;2267&#8211;0291</string>
+    <string name="alaska_terasa_web">ribarskoostrvo.rs/rs/naslovna/restorani/alaska-terasa.html</string>
+    <string name="alaska_terasa_rVreeme">Working hours 09:00 ~ 24:00\n        \n(※ throughout the week)</string>
+    <string name="alaska_terasa_cena">Grilled lamb and pork\n        \nRolled stuffed chicken with potatoes\nRose</string>
+
+
+    <string name="splashtime_key">splashtime_settings</string>
+    <string name="splash_key">splash_settings</string>
+    <string name="basic_info">"Basic information "</string>
+    <string name="novisad_opis">Novi Sad is a city of culture and tourism on the Danube, on the slopes of Fruška Gora, flourishing more and more every year. A city that gives a hand to everyone who wants to enjoy diversity, art and civility. It represents the crossroads of the most important European roads, road and rail, which significantly contributes to the industrial, cultural and economic development of the city. Today, after all the hardships he stoically endured, it is a perfect blend of history and future, traditional and modern way of life. Many young people call it the \"student city\" because in recent decades it has become a popular choice for continuing education and life after high school. Certainly because it provides great opportunities for the choice of faculty, as well as for the realization of young people in terms of business opportunities. What the city can boast of today is a huge tourist potential, a university hotspot with 10 faculties, numerous private faculties and vocational schools, cultural events that attract people from all meridians, fairytale parks and beaches. Let\'s start with the historical heritage and wealth that paint the city in the best light, namely the Danube and the Petrovaradin Fortress. It is together that they form an unbreakable perfect whole. Petrovaradin Fortress, located on a rocky hill above the Danube, is one of the largest and best-preserved fortresses in Europe, built in the Baroque military style. Below it are military rooms and long corridors in as many as 4 levels (about 16 km long), built so that the army could protect itself from the enemy and be able to live in them. The fortress is known for the so-called \"Drunk hour\" whose small hand shows minutes, and big hours, so that boatmen can see what time it is from afar in bad weather. The watch is a gift to the city from Empress Maria Theresa. Today, numerous events are held at the Fortress, such as the \"EXIT\" music festival, known around the world. Najviši organi Autonomne pokrajine Vojvodina smešteni su u zgradi Banovine koju popularno zovu „Mermerna lepotica“ i „Lađa na Dunavu“ jer joj fasadu krasi mermerni kamen sa ostrva Brač. To je jedna od najmonumentalnijih građevina savremenog doba, izgrađena 1939.godine. The people of Novi Sad are especially proud of the core of the city that adorns the Freedom Square, which was built in the 18th century. In the center is a monument to Svetozar Miletic, and on the west side is the Town Hall with striking Ionian and Corinthian pillars, a replica of the town hall in Graz. On the opposite side of the City Hall, there is the Catholic Church of the Name of Mary, and there is also the Hotel Vojvodina, a building first purpose-built for a hotel in 1854. The reason why we say that Novi Sad is a real European cultural center is the institution that is the oldest of its kind in Serbia, and that is the Serbian National Theater, founded in 1861. One of the oldest city streets, Zmaj Jovina Street, stretches from the Freedom Square, where Novi Sad residents and tourists usually gather. The locals called it \"Magazinski sokak\" because of the multitude of craft and trade shops. At the end of the street there is a bronze monument to Jovan Jovanović Zmaj, a children\'s poet.</string>
+    <string name="valuta">Currency</string>
+
+</resources>
+

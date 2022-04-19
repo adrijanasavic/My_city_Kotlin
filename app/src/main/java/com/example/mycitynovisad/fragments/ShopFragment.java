@@ -13,10 +13,8 @@ import com.example.mycitynovisad.R;
 import com.example.mycitynovisad.adapters.ShopAdapter;
 import com.example.mycitynovisad.objects.Attraction;
 
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 
 public class ShopFragment extends Fragment {
@@ -29,7 +27,7 @@ public class ShopFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate( R.layout.fragment_item, container, false );
 
-        Objects.requireNonNull(getActivity()).setTitle( getString( R.string.shop ) );
+        requireActivity().setTitle( getString( R.string.shop ) );
 
         RecyclerView recyclerView = rootView.findViewById( R.id.recyclerview );
         int numberOfColumns = 2;

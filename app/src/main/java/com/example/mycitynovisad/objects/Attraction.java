@@ -3,15 +3,15 @@ package com.example.mycitynovisad.objects;
 
 public class Attraction {
 
-    private int mAttractionImageId;
-    private String mAttractionName;
+    private final int mAttractionImageId;
+    private final String mAttractionName;
     private String mAttractionShortDs;
-    private String mAttractionDescription;
-    private String mAttractionAddress;
-    private String mAttractionTransportation;
+    private final String mAttractionDescription;
+    private final String mAttractionAddress;
+    private final String mAttractionTransportation;
     private String mAttractionPhone;
     private String mAttractionWeb;
-    private String mAttractionHours;
+    private final String mAttractionHours;
     private String mAttractionFee;
 
 

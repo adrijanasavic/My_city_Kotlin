@@ -15,7 +15,6 @@ import com.example.mycitynovisad.objects.Attraction;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 
 public class SightsFragment extends Fragment {
@@ -28,7 +27,7 @@ public class SightsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate( R.layout.fragment_item, container, false );
 
-        Objects.requireNonNull(getActivity()).setTitle( getString( R.string.sights ) );
+        requireActivity().setTitle( getString( R.string.sights ) );
 
         RecyclerView recyclerView = rootView.findViewById( R.id.recyclerview );
         LinearLayoutManager layoutManager = new LinearLayoutManager( getActivity() );
@@ -155,15 +154,5 @@ public class SightsFragment extends Fragment {
                 getString( R.string.spens_web ),
                 getString( R.string.spens_rVreme ),
                 getString( R.string.spens_cena ) ) );
-        attractions.add( new Attraction( R.drawable.dino_park,
-                getString( R.string.dino_park ),
-                getString( R.string.dino_park_opis ),
-                getString( R.string.dino_park_opis_detalji ),
-                getString( R.string.dino_park_adresa ),
-                getString( R.string.dino_park_transport ),
-                getString( R.string.dino_park_telefon ),
-                getString( R.string.dino_park_web ),
-                getString( R.string.dino_park_rVreme ),
-                getString( R.string.dino_park_cena ) ) );
     }
 }

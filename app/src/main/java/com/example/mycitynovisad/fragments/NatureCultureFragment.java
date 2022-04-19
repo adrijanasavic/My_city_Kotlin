@@ -17,20 +17,17 @@ import com.example.mycitynovisad.objects.Attraction;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
-
 
 public class NatureCultureFragment extends Fragment {
 
     private List<Attraction> attractions;
-
     private static final int NATURE_AND_CULTURE = 2;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate( R.layout.fragment_item, container, false );
 
-        Objects.requireNonNull(getActivity()).setTitle( getString( R.string.nature_and_culture ) );
+        requireActivity().setTitle( getString( R.string.nature_and_culture ) );
 
         RecyclerView recyclerView = rootView.findViewById( R.id.recyclerview );
         LinearLayoutManager layoutManager = new LinearLayoutManager( getActivity() );
